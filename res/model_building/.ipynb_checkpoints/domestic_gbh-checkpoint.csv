@@ -1,0 +1,2501 @@
+ID,GBH_12m,Sex,EthnicAppearance_cleaned,Age,InitialRisk,Known 1,Known 2,ProceedingsType,Crimes in pre,DV in Pre
+12202,No,M,Afro-Caribbean,17,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+12376,No,M,Afro-Caribbean,20,S,Boy/Girlfriend,Current,Charge/further charge,2,0
+12567,No,M,Afro-Caribbean,21,S,Boy/Girlfriend,Ex,Second time charged,1,0
+12222,No,M,Afro-Caribbean,22,M,Boy/Girlfriend,Current,Second time charged,1,0
+12480,Yes,M,Arab,23,S,Boy/Girlfriend,Current,Charge/further charge,2,0
+8897,No,M,Asian,35,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8897,No,M,Asian,37,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+1364,No,M,Asian,20,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11774,No,M,Asian,25,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5447,No,M,Asian,31,M,Partner/Spouse,Current,Charge/further charge,0,0
+8147,No,M,Asian,31,S,Boy/Girlfriend,Current,Adult caution,0,0
+11756,No,F,Asian,31,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9180,No,M,Asian,32,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12259,No,F,Asian,33,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11853,No,M,Asian,14,Unknown,Boy/Girlfriend,Ex,Charge/further charge,0,0
+7369,No,M,Asian,26,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8285,No,M,Asian,40,M,Partner/Spouse,Current,Charge/further charge,0,0
+11377,No,M,Asian,21,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11937,No,F,Asian,21,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+337,No,M,Asian,24,H,Boy/Girlfriend,Ex,Charge/further charge,1,1
+12637,No,F,Asian,33,S,Partner/Spouse,Ex,First time charged,0,0
+11197,No,F,Asian,36,M,Partner/Spouse,Current,Adult caution,0,0
+5588,No,M,Asian,37,M,Partner/Spouse,Current,Charge/further charge,2,2
+5588,No,M,Asian,42,S,Boy/Girlfriend,Current,Charge/further charge,2,2
+11862,No,M,Asian,43,M,Partner/Spouse,Current,Charge/further charge,0,0
+10957,No,M,Asian,54,S,Partner/Spouse,Current,Charge/further charge,0,0
+129,No,M,Asian,12,Unknown,Boy/Girlfriend,Current,Youth Conditional Caution,0,0
+12319,No,M,Asian,15,Unknown,Boy/Girlfriend,Ex,First time charged,1,0
+6418,No,F,Asian,16,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12253,No,M,Asian,16,S,Boy/Girlfriend,Ex,Third and subsequent time charged,0,0
+11901,No,F,Asian,17,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+12146,Yes,M,Asian,17,Unknown,Boy/Girlfriend,Current,First time charged,0,0
+4951,No,M,Asian,18,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12109,No,F,Asian,19,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11532,No,M,Asian,19,Unknown,Boy/Girlfriend,Ex,Summons,0,0
+736,Yes,M,Asian,20,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+4487,No,M,Asian,20,M,Partner/Spouse,Ex,Charge/further charge,0,0
+4487,No,M,Asian,20,M,Partner/Spouse,Ex,Charge/further charge,0,0
+5860,No,M,Asian,20,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+9064,No,M,Asian,20,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12033,No,M,Asian,20,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11734,No,M,Asian,20,S,Partner/Spouse,Current,Charge/further charge,0,0
+12453,No,M,Asian,21,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+356,No,M,Asian,21,H,Boy/Girlfriend,Current,Charge/further charge,6,0
+356,No,M,Asian,21,H,Boy/Girlfriend,Current,Charge/further charge,6,0
+7771,No,M,Asian,21,S,Boy/Girlfriend,Current,Adult caution,0,0
+7806,Yes,F,Asian,21,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8224,No,F,Asian,21,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+8507,No,F,Asian,21,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9071,No,F,Asian,21,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11252,No,M,Asian,21,S,Partner/Spouse,Current,Charge/further charge,0,0
+12449,No,M,Asian,22,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12529,No,F,Asian,22,M,Partner/Spouse,Current,First time charged,0,0
+11595,No,M,Asian,22,S,Partner/Spouse,Current,Charge/further charge,0,0
+8204,No,M,Asian,22,S,Partner/Spouse,Current,Adult caution,1,0
+2736,No,M,Asian,23,M,Partner/Spouse,Current,Charge/further charge,0,0
+4157,No,M,Asian,23,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+342,No,M,Asian,23,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+12226,No,M,Asian,23,M,Boy/Girlfriend,Ex,Third and subsequent time charged,1,0
+5213,No,M,Asian,23,M,Boy/Girlfriend,Current,Charge/further charge,1,1
+2684,No,M,Asian,23,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9825,No,F,Asian,23,S,Partner/Spouse,Current,Charge/further charge,0,0
+11136,No,M,Asian,23,S,Partner/Spouse,Current,Charge/further charge,0,0
+12264,No,M,Asian,23,S,Boy/Girlfriend,Ex,Third and subsequent time charged,0,0
+5645,No,F,Asian,24,M,Boy/Girlfriend,Current,Adult caution,0,0
+6520,No,M,Asian,24,M,Partner/Spouse,Current,Charge/further charge,0,0
+11468,No,M,Asian,24,M,Partner/Spouse,Current,Charge/further charge,0,0
+5458,No,M,Asian,24,M,Boy/Girlfriend,Current,Charge/further charge,2,1
+11139,No,F,Asian,24,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11873,No,F,Asian,24,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+335,No,M,Asian,24,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+10789,No,M,Asian,25,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11268,No,M,Asian,25,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12071,No,F,Asian,25,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+2286,Yes,M,Asian,25,H,Boy/Girlfriend,Ex,Charge/further charge,4,2
+2286,Yes,M,Asian,25,H,Boy/Girlfriend,Ex,Charge/further charge,4,2
+4146,No,F,Asian,25,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7148,No,M,Asian,25,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12140,No,M,Asian,25,S,Partner/Spouse,Current,First time charged,0,0
+12140,No,M,Asian,25,S,Partner/Spouse,Current,First time charged,0,0
+5119,No,M,Asian,26,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6898,No,M,Asian,26,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+7226,No,M,Asian,26,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9829,No,M,Asian,26,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11251,No,M,Asian,26,M,Partner/Spouse,Current,Charge/further charge,0,0
+12533,No,M,Asian,26,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6244,No,M,Asian,26,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+2615,No,M,Asian,26,Unknown,Boy/Girlfriend,Current,Charge/further charge,0,0
+4722,No,M,Asian,26,S,Partner/Spouse,Current,Charge/further charge,0,0
+6157,No,M,Asian,26,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+8197,No,M,Asian,26,S,Partner/Spouse,Current,Charge/further charge,0,0
+12010,No,M,Asian,26,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12229,No,M,Asian,26,S,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+9997,No,M,Asian,26,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+1630,No,M,Asian,27,M,Partner/Spouse,Current,Charge/further charge,0,0
+4129,No,M,Asian,27,M,Partner/Spouse,Current,Charge/further charge,0,0
+11724,No,M,Asian,27,M,Boy/Girlfriend,Ex,Summons,0,0
+1237,No,M,Asian,27,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+2542,No,F,Asian,27,S,Partner/Spouse,Current,Charge/further charge,0,0
+4140,No,M,Asian,27,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5418,No,M,Asian,27,S,Partner/Spouse,Ex,Adult caution,0,0
+5841,No,F,Asian,28,M,Partner/Spouse,Current,Charge/further charge,0,0
+7823,Yes,M,Asian,28,H,Partner/Spouse,Current,Charge/further charge,0,0
+9422,Yes,M,Asian,28,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11494,No,M,Asian,28,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+2215,No,M,Asian,28,M,Partner/Spouse,Ex,Charge/further charge,1,1
+6460,Yes,M,Asian,28,S,Partner/Spouse,Current,Charge/further charge,0,0
+6460,No,M,Asian,28,S,Partner/Spouse,Current,Charge/further charge,0,0
+7468,No,F,Asian,28,S,Partner/Spouse,Current,Charge/further charge,0,0
+11250,No,F,Asian,28,S,Partner/Spouse,Current,Charge/further charge,0,0
+12054,Yes,M,Asian,28,S,Partner/Spouse,Current,Charge/further charge,0,0
+4262,No,M,Asian,28,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+6909,No,M,Asian,29,M,Boy/Girlfriend,Ex,Second time charged,0,0
+10950,No,M,Asian,29,H,Partner/Spouse,Current,Charge/further charge,0,0
+12519,No,M,Asian,29,M,Boy/Girlfriend,Ex,Third and subsequent time charged,0,0
+10040,No,M,Asian,29,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10708,No,F,Asian,29,S,Partner/Spouse,Current,Charge/further charge,0,0
+11593,No,M,Asian,29,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12446,No,M,Asian,29,S,Partner/Spouse,Current,Charge/further charge,0,0
+5955,No,M,Asian,30,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+7801,No,M,Asian,30,M,Partner/Spouse,Current,Charge/further charge,0,0
+12444,No,F,Asian,30,M,Partner/Spouse,Current,Charge/further charge,0,0
+3493,No,M,Asian,30,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+2024,No,M,Asian,30,S,Boy/Girlfriend,Ex,Postal Charge Requisition,0,0
+4447,No,F,Asian,30,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5913,No,M,Asian,30,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9450,No,F,Asian,30,S,Partner/Spouse,Current,Charge/further charge,0,0
+11162,No,M,Asian,30,S,Partner/Spouse,Ex,Charge/further charge,0,0
+11406,No,F,Asian,30,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11902,No,M,Asian,30,S,Partner/Spouse,Ex,Charge/further charge,0,0
+706,No,M,Asian,31,M,Partner/Spouse,Current,Charge/further charge,0,0
+2547,No,M,Asian,31,M,Partner/Spouse,Current,Charge/further charge,0,0
+5104,No,M,Asian,31,S,Partner/Spouse,Current,Charge/further charge,0,0
+6286,No,M,Asian,31,S,Partner/Spouse,Current,Charge/further charge,0,0
+9723,No,M,Asian,31,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9723,No,M,Asian,31,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11717,Yes,M,Asian,31,S,Partner/Spouse,Current,Charge/further charge,0,0
+1446,Yes,M,Asian,32,H,Partner/Spouse,Current,Charge/further charge,0,0
+2346,No,F,Asian,32,M,Partner/Spouse,Current,Charge/further charge,0,0
+3133,No,M,Asian,32,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+5122,No,M,Asian,32,M,Partner/Spouse,Current,Charge/further charge,0,0
+6276,No,F,Asian,32,M,Partner/Spouse,Current,Adult caution,0,0
+11161,No,M,Asian,32,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11190,No,M,Asian,32,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12451,No,M,Asian,32,M,Partner/Spouse,Current,Charge/further charge,0,0
+12451,No,M,Asian,32,M,Partner/Spouse,Current,Charge/further charge,0,0
+2428,No,M,Asian,32,S,Partner/Spouse,Current,Charge/further charge,0,0
+4520,No,M,Asian,33,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+5326,No,M,Asian,33,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+7448,No,M,Asian,33,M,Partner/Spouse,Current,Charge/further charge,0,0
+11615,No,M,Asian,33,M,Partner/Spouse,Current,Charge/further charge,0,0
+11662,No,M,Asian,33,M,Partner/Spouse,Current,Charge/further charge,0,0
+12250,Yes,M,Asian,33,H,Partner/Spouse,Current,Third and subsequent time charged,0,0
+4639,No,M,Asian,33,H,Boy/Girlfriend,Ex,Charge/further charge,1,1
+6274,No,M,Asian,33,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6557,No,F,Asian,33,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11562,No,M,Asian,33,S,Partner/Spouse,Current,Charge/further charge,0,0
+11915,No,M,Asian,33,S,Partner/Spouse,Current,Charge/further charge,0,0
+12467,No,M,Asian,33,S,Partner/Spouse,Current,First time charged,0,0
+3433,No,M,Asian,34,M,Partner/Spouse,Current,Charge/further charge,0,0
+9833,No,M,Asian,34,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10952,Yes,M,Asian,34,H,Partner/Spouse,Current,Charge/further charge,0,0
+12194,Yes,F,Asian,34,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+5982,No,M,Asian,34,H,Partner/Spouse,Current,Charge/further charge,1,1
+4544,Yes,M,Asian,34,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8943,No,M,Asian,34,S,Partner/Spouse,Current,Adult caution,0,0
+10971,Yes,M,Asian,34,S,Partner/Spouse,Current,Charge/further charge,0,0
+11272,Yes,M,Asian,34,S,Partner/Spouse,Current,Charge/further charge,0,0
+11477,No,M,Asian,34,S,Partner/Spouse,Current,Charge/further charge,0,0
+10045,Yes,M,Asian,34,S,Partner/Spouse,Current,Charge/further charge,1,1
+7538,No,M,Asian,35,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+10713,No,M,Asian,35,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11909,No,M,Asian,35,M,Partner/Spouse,Current,Charge/further charge,0,0
+1437,No,M,Asian,35,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+824,No,M,Asian,35,M,Boy/Girlfriend,Current,Charge/further charge,1,1
+12528,No,M,Asian,35,M,Boy/Girlfriend,Current,Third and subsequent time charged,1,1
+1458,No,M,Asian,35,S,Partner/Spouse,Current,Charge/further charge,0,0
+3596,No,M,Asian,35,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7463,No,F,Asian,35,S,Partner/Spouse,Current,Adult caution,0,0
+9981,No,F,Asian,35,S,Partner/Spouse,Current,Adult caution,0,0
+8918,No,M,Asian,36,M,Partner/Spouse,Current,Charge/further charge,0,0
+11414,No,M,Asian,36,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+37,No,M,Asian,36,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+2698,No,M,Asian,36,S,Partner/Spouse,Current,Adult caution,0,0
+4124,No,M,Asian,36,S,Partner/Spouse,Current,Charge/further charge,0,0
+9983,No,M,Asian,36,S,Partner/Spouse,Current,Charge/further charge,0,0
+11178,No,M,Asian,36,S,Partner/Spouse,Current,Charge/further charge,0,0
+7097,No,M,Asian,37,M,Partner/Spouse,Current,Charge/further charge,0,0
+9045,No,M,Asian,37,M,Partner/Spouse,Current,First time charged,0,0
+4315,No,M,Asian,37,M,Partner/Spouse,Current,Charge/further charge,1,1
+4699,No,M,Asian,37,S,Partner/Spouse,Current,Charge/further charge,0,0
+9409,No,M,Asian,37,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9737,No,M,Asian,37,S,Partner/Spouse,Current,Charge/further charge,0,0
+11177,No,F,Asian,37,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12038,No,M,Asian,37,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12178,No,M,Asian,37,S,Partner/Spouse,Current,First time charged,0,0
+12476,No,F,Asian,37,Unknown,Boy/Girlfriend,Ex,Second time charged,0,0
+7007,No,M,Asian,37,S,Partner/Spouse,Current,Charge/further charge,1,0
+11275,No,M,Asian,37,S,Partner/Spouse,Current,Charge/further charge,1,0
+8159,Yes,M,Asian,37,S,Boy/Girlfriend,Current,Charge/further charge,2,0
+1097,No,F,Asian,38,H,Partner/Spouse,Current,Charge/further charge,0,0
+7887,No,M,Asian,38,M,Partner/Spouse,Current,Charge/further charge,0,0
+12468,No,M,Asian,38,M,Partner/Spouse,Current,Third and subsequent time charged,1,0
+9877,No,M,Asian,38,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+1440,No,M,Asian,39,H,Partner/Spouse,Current,Charge/further charge,0,0
+12464,No,M,Asian,39,M,Partner/Spouse,Current,First time charged,0,0
+12153,No,M,Asian,39,H,Boy/Girlfriend,Current,First time charged,3,0
+3617,Yes,M,Asian,39,H,Boy/Girlfriend,Ex,Charge/further charge,4,2
+439,No,M,Asian,39,S,Boy/Girlfriend,Ex,Postal Charge Requisition,0,0
+5114,No,M,Asian,39,S,Partner/Spouse,Ex,Charge/further charge,0,0
+11584,No,M,Asian,39,S,Partner/Spouse,Current,Charge/further charge,0,0
+11894,No,M,Asian,39,S,Partner/Spouse,Current,Adult caution,0,0
+12251,No,M,Asian,39,S,Partner/Spouse,Ex,Third and subsequent time charged,0,0
+101,No,M,Asian,39,S,Partner/Spouse,Current,Charge/further charge,2,1
+3617,No,M,Asian,39,S,Boy/Girlfriend,Current,Charge/further charge,4,2
+2874,No,M,Asian,40,H,Partner/Spouse,Current,Charge/further charge,0,0
+9689,No,F,Asian,40,M,Partner/Spouse,Current,Charge/further charge,0,0
+11557,No,M,Asian,40,M,Partner/Spouse,Current,Charge/further charge,0,0
+11924,No,M,Asian,40,H,Partner/Spouse,Current,Charge/further charge,0,0
+7880,No,M,Asian,40,S,Partner/Spouse,Current,Charge/further charge,0,0
+9701,Yes,M,Asian,40,S,Partner/Spouse,Current,Charge/further charge,0,0
+10959,No,M,Asian,40,S,Partner/Spouse,Current,Charge/further charge,0,0
+11564,No,M,Asian,40,S,Partner/Spouse,Current,Charge/further charge,0,0
+117,No,M,Asian,41,H,Partner/Spouse,Current,Charge/further charge,0,0
+117,No,M,Asian,41,H,Partner/Spouse,Current,Charge/further charge,0,0
+5151,No,M,Asian,41,M,Partner/Spouse,Current,Charge/further charge,0,0
+5151,No,M,Asian,41,M,Partner/Spouse,Current,Charge/further charge,0,0
+8919,Yes,M,Asian,41,H,Partner/Spouse,Current,Charge/further charge,0,0
+11922,No,F,Asian,41,M,Partner/Spouse,Current,Charge/further charge,0,0
+5257,No,M,Asian,41,S,Partner/Spouse,Current,Charge/further charge,0,0
+11563,No,M,Asian,41,Unknown,Boy/Girlfriend,Ex,Charge/further charge,0,0
+312,No,M,Asian,42,M,Partner/Spouse,Ex,Charge/further charge,0,0
+5842,No,M,Asian,42,M,Partner/Spouse,Current,Charge/further charge,0,0
+11916,No,M,Asian,42,M,Partner/Spouse,Current,Charge/further charge,0,0
+3451,No,M,Asian,42,S,Partner/Spouse,Current,Charge/further charge,0,0
+6225,No,M,Asian,42,S,Boy/Girlfriend,Current,Adult caution,0,0
+11721,No,M,Asian,42,S,Partner/Spouse,Current,Charge/further charge,0,0
+12151,No,M,Asian,42,S,Partner/Spouse,Current,First time charged,0,0
+1412,No,M,Asian,43,H,Partner/Spouse,Current,Charge/further charge,0,0
+7748,No,M,Asian,43,M,Partner/Spouse,Current,Charge/further charge,0,0
+1005,No,M,Asian,43,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+4242,No,M,Asian,43,S,Partner/Spouse,Current,Charge/further charge,0,0
+5581,Yes,F,Asian,43,S,Partner/Spouse,Current,Charge/further charge,0,0
+10260,No,M,Asian,43,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10299,No,M,Asian,43,S,Partner/Spouse,Current,Charge/further charge,0,0
+11959,No,M,Asian,43,S,Partner/Spouse,Current,Charge/further charge,1,1
+2100,No,M,Asian,44,H,Partner/Spouse,Current,Charge/further charge,0,0
+7794,No,M,Asian,44,H,Partner/Spouse,Current,Charge/further charge,0,0
+9049,No,M,Asian,44,H,Partner/Spouse,Current,Charge/further charge,1,0
+659,No,M,Asian,44,S,Partner/Spouse,Ex,Charge/further charge,0,0
+3571,No,M,Asian,44,S,Partner/Spouse,Current,Charge/further charge,0,0
+3635,No,M,Asian,44,S,Partner/Spouse,Current,Charge/further charge,0,0
+4426,No,F,Asian,44,S,Partner/Spouse,Current,Charge/further charge,0,0
+11273,No,M,Asian,44,S,Partner/Spouse,Current,Charge/further charge,0,0
+11657,Yes,M,Asian,45,H,Partner/Spouse,Current,Charge/further charge,0,0
+7200,No,M,Asian,45,S,Partner/Spouse,Current,Charge/further charge,0,0
+11472,No,M,Asian,45,S,Partner/Spouse,Current,Charge/further charge,0,0
+375,Yes,M,Asian,46,H,Partner/Spouse,Current,Charge/further charge,0,0
+9677,No,M,Asian,46,M,Partner/Spouse,Current,Charge/further charge,0,0
+9697,No,M,Asian,46,H,Partner/Spouse,Current,Charge/further charge,0,0
+8209,No,M,Asian,47,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+1452,No,M,Asian,47,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6289,No,M,Asian,47,S,Partner/Spouse,Current,Charge/further charge,0,0
+4107,No,M,Asian,48,M,Partner/Spouse,Current,Charge/further charge,0,0
+4107,No,M,Asian,48,M,Partner/Spouse,Current,Charge/further charge,0,0
+1007,No,M,Asian,48,H,Boy/Girlfriend,Ex,Charge/further charge,2,0
+9780,No,M,Asian,48,S,Partner/Spouse,Current,Charge/further charge,0,0
+11095,No,M,Asian,49,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10430,Yes,M,Asian,49,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+1412,Yes,M,Asian,50,S,Partner/Spouse,Ex,Charge/further charge,0,0
+11164,No,M,Asian,50,S,Partner/Spouse,Current,Charge/further charge,0,0
+11210,No,M,Asian,50,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3454,No,M,Asian,51,S,Partner/Spouse,Current,Charge/further charge,0,0
+7372,No,M,Asian,51,S,Partner/Spouse,Ex,Adult caution,0,0
+10017,No,M,Asian,51,S,Partner/Spouse,Current,Charge/further charge,0,0
+11675,No,F,Asian,52,M,Partner/Spouse,Current,Charge/further charge,0,0
+11914,Yes,M,Asian,52,S,Partner/Spouse,Current,Charge/further charge,0,0
+7052,No,M,Asian,53,M,Partner/Spouse,Current,Charge/further charge,0,0
+3430,No,M,Asian,53,S,Partner/Spouse,Current,Charge/further charge,0,0
+7831,No,M,Asian,53,S,Partner/Spouse,Current,Charge/further charge,0,0
+2315,No,M,Asian,54,M,Partner/Spouse,Current,Postal Charge Requisition,0,0
+11246,No,M,Asian,55,M,Partner/Spouse,Current,Charge/further charge,0,0
+10781,No,M,Asian,55,S,Partner/Spouse,Current,Charge/further charge,1,0
+12139,No,M,Asian,56,M,Partner/Spouse,Current,First time charged,0,0
+1755,No,M,Asian,56,S,Partner/Spouse,Current,Charge/further charge,0,0
+11878,No,M,Asian,57,S,Partner/Spouse,Current,Charge/further charge,0,0
+1430,Yes,M,Asian,58,S,Partner/Spouse,Current,Charge/further charge,0,0
+10964,No,M,Asian,58,S,Partner/Spouse,Current,Charge/further charge,0,0
+11921,No,M,Asian,59,S,Partner/Spouse,Current,Charge/further charge,1,0
+12243,No,M,Asian,60,S,Partner/Spouse,Ex,Charge/further charge,0,0
+1173,No,M,Asian,64,S,Partner/Spouse,Current,Charge/further charge,1,0
+11912,Yes,M,Asian,65,H,Partner/Spouse,Current,Charge/further charge,0,0
+2326,Yes,M,Asian,66,S,Partner/Spouse,Current,Charge/further charge,0,0
+998,No,M,Asian,67,S,Partner/Spouse,Current,Charge/further charge,0,0
+1211,Yes,F,Asian,73,H,Partner/Spouse,Current,Charge/further charge,0,0
+11466,No,M,Asian,84,S,Partner/Spouse,Current,Charge/further charge,0,0
+11883,No,M,Asian,18,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8255,No,F,Asian,18,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12056,No,F,Asian,22,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+2621,No,F,Asian,23,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11619,No,M,Asian,24,M,Boy/Girlfriend,Current,Charge/further charge,2,0
+12677,No,F,Asian,24,S,Partner/Spouse,Current,First time charged,0,0
+33,No,F,Asian,29,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11911,No,F,Asian,39,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11926,No,M,Asian,46,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12642,No,M,Asian,47,H,Partner/Spouse,Current,Third and subsequent time charged,0,0
+3954,No,M,Asian,27,M,Boy/Girlfriend,Ex,Charge/further charge,1,1
+7583,No,M,Asian,31,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5291,No,M,Asian,32,M,Partner/Spouse,Current,Charge/further charge,0,0
+11422,No,M,Asian,42,M,Partner/Spouse,Current,Charge/further charge,0,0
+730,No,M,Asian,44,S,Partner/Spouse,Current,Charge/further charge,0,0
+1798,No,M,Black,24,Unknown,Boy/Girlfriend,Current,Charge/further charge,1,0
+10,No,M,Black,39,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+4490,No,M,Black,42,S,Partner/Spouse,Current,Charge/further charge,0,0
+10209,No,M,Black,21,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11360,No,M,Black,25,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+2425,No,M,Black,27,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+7242,No,F,Black,29,M,Boy/Girlfriend,Current,Summons,0,0
+3797,No,M,Black,34,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3797,No,M,Black,34,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11204,No,M,Black,35,S,Partner/Spouse,Current,Charge/further charge,0,0
+12330,No,M,Black,38,H,Boy/Girlfriend,Ex,Third and subsequent time charged,1,0
+11719,No,F,Black,38,S,Boy/Girlfriend,Current,Adult caution,0,0
+1772,No,F,Black,42,H,Partner/Spouse,Current,Charge/further charge,1,1
+1476,No,M,Black,43,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+280,Yes,M,Black,48,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+5936,No,M,Black,18,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12425,No,M,Black,23,S,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+11109,No,M,Black,27,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11109,No,M,Black,27,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+5668,No,F,Black,28,S,Boy/Girlfriend,Current,Adult caution,0,0
+6512,No,M,Black,30,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11729,No,F,Black,30,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+872,No,M,Black,39,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+7648,No,M,Black,55,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9494,No,F,Black,15,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8144,Yes,M,Black,15,Unknown,Boy/Girlfriend,Current,Charge/further charge,0,0
+9520,No,M,Black,15,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6902,No,M,Black,15,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+2042,No,M,Black,16,Unknown,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10906,No,M,Black,16,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11810,No,F,Black,16,Unknown,Boy/Girlfriend,Current,Charge/further charge,0,0
+11842,No,M,Black,16,Unknown,Boy/Girlfriend,Current,Charge/further charge,0,0
+12301,No,F,Black,16,Unknown,Boy/Girlfriend,Ex,First time charged,0,0
+2168,No,M,Black,16,S,Boy/Girlfriend,Ex,Charge/further charge,2,0
+10411,No,M,Black,17,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+537,No,M,Black,17,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+1591,No,M,Black,17,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+11874,No,M,Black,17,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+8488,No,M,Black,17,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+12470,No,M,Black,17,S,Boy/Girlfriend,Ex,Second time charged,1,0
+5798,No,M,Black,18,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+6521,No,M,Black,18,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12228,No,F,Black,18,H,Boy/Girlfriend,Current,First time charged,0,0
+12491,No,F,Black,18,H,Boy/Girlfriend,Current,First time charged,0,0
+164,No,M,Black,18,H,Boy/Girlfriend,Current,Charge/further charge,2,0
+11979,No,M,Black,18,H,Boy/Girlfriend,Ex,Charge/further charge,2,1
+2435,No,M,Black,18,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6200,No,M,Black,18,Unknown,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10792,No,M,Black,18,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11783,No,F,Black,18,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12417,No,M,Black,18,Unknown,Boy/Girlfriend,Current,Third and subsequent time charged,1,0
+4920,No,M,Black,19,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6849,No,F,Black,19,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+7533,No,F,Black,19,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11923,No,M,Black,19,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12101,No,M,Black,19,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12473,No,M,Black,19,H,Boy/Girlfriend,Current,Second time charged,0,0
+821,No,M,Black,19,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+1853,No,M,Black,19,H,Boy/Girlfriend,Current,Charge/further charge,2,0
+3262,No,M,Black,19,M,Boy/Girlfriend,Ex,Charge/further charge,2,2
+3347,No,F,Black,19,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6222,No,M,Black,19,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+8882,No,F,Black,19,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10353,No,M,Black,19,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10435,No,F,Black,19,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10655,No,M,Black,19,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11245,Yes,M,Black,19,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12082,No,F,Black,19,S,Partner/Spouse,Current,First time charged,0,0
+12555,No,M,Black,19,S,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+1654,No,M,Black,19,S,Boy/Girlfriend,Ex,Charge/further charge,2,0
+1654,No,M,Black,19,S,Boy/Girlfriend,Ex,Charge/further charge,2,0
+5186,No,M,Black,19,S,Boy/Girlfriend,Current,Charge/further charge,2,0
+1262,No,M,Black,19,S,Boy/Girlfriend,Current,Charge/further charge,1,1
+3620,No,M,Black,19,S,Boy/Girlfriend,Ex,Charge/further charge,2,1
+3262,No,M,Black,19,S,Boy/Girlfriend,Ex,Charge/further charge,2,2
+2822,No,M,Black,20,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5416,No,M,Black,20,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6737,No,M,Black,20,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8922,No,M,Black,20,M,Partner/Spouse,Current,Charge/further charge,0,0
+9211,No,M,Black,20,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+9602,No,M,Black,20,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+10584,No,M,Black,20,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11388,No,M,Black,20,H,Boy/Girlfriend,Ex,Second time charged,0,0
+11388,No,M,Black,20,H,Boy/Girlfriend,Ex,Second time charged,0,0
+11420,No,M,Black,20,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11664,No,M,Black,20,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11705,No,F,Black,20,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11983,No,M,Black,20,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12362,No,F,Black,20,M,Boy/Girlfriend,Ex,Third and subsequent time charged,0,0
+568,No,M,Black,20,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+8597,No,M,Black,20,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+11972,No,M,Black,20,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+58,No,M,Black,20,H,Boy/Girlfriend,Current,Charge/further charge,4,2
+3590,No,F,Black,20,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3590,No,F,Black,20,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4724,No,F,Black,20,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5980,No,F,Black,20,S,Boy/Girlfriend,Current,Adult caution,0,0
+6641,No,F,Black,20,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6851,No,F,Black,20,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7255,No,M,Black,20,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10151,No,F,Black,20,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11987,No,F,Black,20,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12083,No,M,Black,20,S,Boy/Girlfriend,Current,First time charged,0,0
+12130,No,F,Black,20,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12395,No,M,Black,20,S,Boy/Girlfriend,Current,First time charged,0,0
+12493,No,M,Black,20,S,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+3225,No,M,Black,21,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+3253,No,M,Black,21,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3253,No,M,Black,21,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10834,No,M,Black,21,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11182,No,M,Black,21,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11240,No,F,Black,21,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11264,No,F,Black,21,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11886,No,M,Black,21,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12026,No,M,Black,21,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12290,Yes,M,Black,21,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12366,No,M,Black,21,H,Boy/Girlfriend,Current,First time charged,0,0
+12412,No,F,Black,21,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+1783,Yes,M,Black,21,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+9176,No,F,Black,21,M,Boy/Girlfriend,Ex,Summons,1,0
+940,No,M,Black,21,H,Boy/Girlfriend,Ex,Charge/further charge,4,0
+2126,No,M,Black,21,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+2583,Yes,M,Black,21,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+4295,No,M,Black,21,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10101,No,M,Black,21,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11822,Yes,M,Black,21,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12051,No,M,Black,21,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+4983,No,M,Black,21,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+7998,No,M,Black,21,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+11865,No,F,Black,21,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+12174,No,M,Black,21,S,Boy/Girlfriend,Ex,Third and subsequent time charged,1,0
+8402,Yes,M,Black,21,S,Boy/Girlfriend,Ex,Charge/further charge,2,0
+8402,No,M,Black,21,S,Boy/Girlfriend,Ex,Charge/further charge,2,0
+12016,Yes,M,Black,21,S,Partner/Spouse,Ex,Charge/further charge,1,1
+2850,No,M,Black,22,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+3294,No,F,Black,22,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+5884,No,F,Black,22,M,Partner/Spouse,Current,Charge/further charge,0,0
+6268,No,M,Black,22,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+7190,No,M,Black,22,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11325,No,F,Black,22,M,Boy/Girlfriend,Ex,Conditional caution,0,0
+11388,No,M,Black,22,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11401,No,F,Black,22,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12484,No,M,Black,22,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+543,No,M,Black,22,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+565,No,M,Black,22,H,Boy/Girlfriend,Current,Postal Charge Requisition,1,0
+583,No,M,Black,22,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+3835,No,M,Black,22,M,Partner/Spouse,Current,Charge/further charge,1,0
+10677,No,M,Black,22,M,Boy/Girlfriend,Ex,Summons,1,0
+11767,No,M,Black,22,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+1153,No,M,Black,22,H,Boy/Girlfriend,Current,Charge/further charge,2,0
+1226,No,M,Black,22,H,Boy/Girlfriend,Ex,Postal Charge Requisition,2,1
+4875,No,M,Black,22,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+7678,No,F,Black,22,S,Boy/Girlfriend,Ex,Adult caution,0,0
+8688,No,F,Black,22,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9187,No,M,Black,22,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9282,No,M,Black,22,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10510,No,F,Black,22,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10523,No,F,Black,22,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12145,No,M,Black,22,S,Boy/Girlfriend,Current,First time charged,0,0
+12168,Yes,M,Black,22,S,Boy/Girlfriend,Current,First time charged,0,0
+11300,No,M,Black,22,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+12089,No,M,Black,22,S,Boy/Girlfriend,Ex,First time charged,1,0
+719,No,M,Black,22,S,Boy/Girlfriend,Ex,Charge/further charge,2,0
+11418,No,M,Black,22,S,Boy/Girlfriend,Current,Charge/further charge,2,1
+3897,No,F,Black,23,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+9762,No,M,Black,23,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10904,No,M,Black,23,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12288,No,M,Black,23,H,Partner/Spouse,Current,First time charged,0,0
+1594,No,M,Black,23,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+3027,Yes,M,Black,23,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+2407,No,M,Black,23,H,Boy/Girlfriend,Ex,Charge/further charge,2,2
+58,No,M,Black,23,H,Boy/Girlfriend,Ex,Postal Charge Requisition,4,2
+1353,No,F,Black,23,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+1749,No,M,Black,23,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6278,No,F,Black,23,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7425,No,M,Black,23,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7535,No,M,Black,23,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8771,No,M,Black,23,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10847,No,F,Black,23,S,Boy/Girlfriend,Current,Adult caution,0,0
+10911,No,F,Black,23,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11554,No,M,Black,23,S,Partner/Spouse,Current,Charge/further charge,0,0
+12257,No,F,Black,23,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+787,No,M,Black,23,S,Boy/Girlfriend,Ex,Postal Charge Requisition,1,0
+2295,No,M,Black,23,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+4737,No,M,Black,23,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+10203,No,M,Black,23,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+3029,No,M,Black,24,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4329,No,M,Black,24,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4885,No,M,Black,24,M,Boy/Girlfriend,Current,Adult caution,0,0
+6626,No,M,Black,24,M,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+7575,No,M,Black,24,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9913,No,M,Black,24,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12353,No,M,Black,24,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+6943,No,M,Black,24,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+2129,No,M,Black,24,M,Boy/Girlfriend,Current,Charge/further charge,1,1
+2407,No,M,Black,24,H,Boy/Girlfriend,Ex,Charge/further charge,2,2
+1483,No,M,Black,24,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+2173,No,M,Black,24,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+3923,No,M,Black,24,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+7787,No,M,Black,24,S,Boy/Girlfriend,Current,Adult caution,0,0
+11092,No,M,Black,24,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12272,No,M,Black,24,S,Boy/Girlfriend,Current,Second time charged,0,0
+11351,Yes,M,Black,24,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+420,No,M,Black,24,S,Boy/Girlfriend,Ex,Charge/further charge,3,0
+8849,No,M,Black,24,S,Boy/Girlfriend,Current,Charge/further charge,1,1
+11839,No,F,Black,24,S,Boy/Girlfriend,Ex,Charge/further charge,1,1
+1299,No,M,Black,25,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+3300,No,M,Black,25,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+4947,No,M,Black,25,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+8104,No,F,Black,25,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+8110,No,M,Black,25,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8582,No,F,Black,25,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+8960,No,M,Black,25,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8960,No,M,Black,25,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9613,No,M,Black,25,M,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+9613,No,M,Black,25,M,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+9907,No,M,Black,25,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11280,No,M,Black,25,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11315,No,M,Black,25,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12217,No,M,Black,25,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12554,No,M,Black,25,M,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+12625,No,M,Black,25,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12646,No,M,Black,25,M,Partner/Spouse,Ex,Third and subsequent time charged,0,0
+435,Yes,M,Black,25,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+651,No,M,Black,25,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+563,No,M,Black,25,H,Boy/Girlfriend,Ex,Charge/further charge,2,0
+2163,No,F,Black,25,S,Boy/Girlfriend,Current,Postal Charge Requisition,0,0
+4210,No,F,Black,25,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5995,No,F,Black,25,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6958,No,M,Black,25,S,Boy/Girlfriend,Ex,Third and subsequent time charged,0,0
+6958,No,M,Black,25,S,Boy/Girlfriend,Ex,Third and subsequent time charged,0,0
+7031,No,M,Black,25,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+8419,No,M,Black,25,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8628,No,F,Black,25,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10638,No,M,Black,25,S,Boy/Girlfriend,Ex,Adult caution,0,0
+11249,No,M,Black,25,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11764,No,M,Black,25,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12150,No,M,Black,25,S,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+12303,No,F,Black,25,Unknown,Boy/Girlfriend,Current,Adult caution,0,0
+256,No,M,Black,26,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+817,No,F,Black,26,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+2096,No,M,Black,26,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+2766,No,M,Black,26,H,Partner/Spouse,Ex,Charge/further charge,0,0
+5743,No,M,Black,26,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+6426,No,M,Black,26,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6536,No,M,Black,26,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8083,Yes,M,Black,26,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9188,No,M,Black,26,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10491,No,M,Black,26,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11131,No,F,Black,26,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11169,No,M,Black,26,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11426,No,M,Black,26,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11426,No,M,Black,26,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11871,Yes,M,Black,26,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12469,No,M,Black,26,M,Boy/Girlfriend,Current,First time charged,0,0
+12610,No,M,Black,26,H,Boy/Girlfriend,Ex,First time charged,0,0
+12610,No,M,Black,26,H,Boy/Girlfriend,Ex,First time charged,0,0
+5529,No,M,Black,26,H,Partner/Spouse,Current,Charge/further charge,1,0
+6806,No,M,Black,26,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+10617,No,M,Black,26,M,Boy/Girlfriend,Current,Charge/further charge,1,1
+1060,No,M,Black,26,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+2414,No,M,Black,26,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+3592,No,M,Black,26,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4721,No,M,Black,26,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5129,No,M,Black,26,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6371,No,M,Black,26,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6551,No,F,Black,26,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7743,No,F,Black,26,S,Partner/Spouse,Current,Adult caution,0,0
+8784,No,M,Black,26,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9073,No,F,Black,26,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+716,No,M,Black,26,S,Boy/Girlfriend,Current,Postal Charge Requisition,1,0
+3561,No,M,Black,26,S,Boy/Girlfriend,Current,Charge/further charge,1,1
+5058,No,M,Black,26,S,Boy/Girlfriend,Current,Charge/further charge,1,1
+2499,No,M,Black,27,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3317,No,F,Black,27,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+7780,No,M,Black,27,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8729,No,M,Black,27,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+9182,No,M,Black,27,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10691,No,M,Black,27,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10887,No,M,Black,27,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11434,No,F,Black,27,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11434,No,F,Black,27,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11497,No,M,Black,27,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12219,No,F,Black,27,H,Boy/Girlfriend,Ex,First time charged,0,0
+1578,No,M,Black,27,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+1886,No,M,Black,27,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+7229,No,M,Black,27,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+11455,No,F,Black,27,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+12077,No,M,Black,27,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+1447,No,M,Black,27,M,Boy/Girlfriend,Current,Charge/further charge,2,0
+1777,No,M,Black,27,H,Boy/Girlfriend,Ex,Charge/further charge,1,1
+2540,No,M,Black,27,H,Boy/Girlfriend,Ex,Charge/further charge,1,1
+2802,No,M,Black,27,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3250,No,M,Black,27,S,Partner/Spouse,Current,Charge/further charge,0,0
+3369,No,M,Black,27,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+4713,No,M,Black,27,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+4821,No,F,Black,27,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8905,No,M,Black,27,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9940,No,F,Black,27,S,Boy/Girlfriend,Current,Adult caution,0,0
+10714,No,M,Black,27,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10871,No,M,Black,27,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11127,No,M,Black,27,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11168,No,M,Black,27,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11257,No,M,Black,27,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11408,No,M,Black,27,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11755,No,M,Black,27,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12348,No,M,Black,27,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12414,No,M,Black,27,S,Boy/Girlfriend,Current,First time charged,0,0
+12415,No,M,Black,27,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+1336,No,M,Black,28,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3673,No,F,Black,28,H,Partner/Spouse,Ex,Charge/further charge,0,0
+4787,No,F,Black,28,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+4909,No,F,Black,28,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4909,No,F,Black,28,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4932,No,M,Black,28,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+6041,No,M,Black,28,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8655,No,M,Black,28,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9254,No,M,Black,28,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11332,No,M,Black,28,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11439,No,F,Black,28,H,Partner/Spouse,Current,Charge/further charge,0,0
+2828,No,M,Black,28,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+3461,No,M,Black,28,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+7302,No,M,Black,28,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+7838,No,M,Black,28,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+532,No,M,Black,28,M,Partner/Spouse,Ex,First time charged,4,0
+5169,No,M,Black,28,M,Partner/Spouse,Ex,Charge/further charge,10,0
+504,No,M,Black,28,H,Boy/Girlfriend,Ex,Postal Charge Requisition,1,1
+4389,No,M,Black,28,H,Boy/Girlfriend,Current,Charge/further charge,1,1
+12681,No,M,Black,28,H,Boy/Girlfriend,Ex,First time charged,1,1
+11844,Yes,M,Black,28,H,Boy/Girlfriend,Current,Charge/further charge,3,1
+5555,No,F,Black,28,S,Boy/Girlfriend,Current,Adult caution,0,0
+6279,No,M,Black,28,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6608,No,M,Black,28,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7241,No,F,Black,28,S,Boy/Girlfriend,Current,Adult caution,0,0
+12271,Yes,M,Black,28,S,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+12517,No,M,Black,28,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8674,No,M,Black,28,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+11545,No,M,Black,28,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+719,No,M,Black,28,S,Boy/Girlfriend,Current,Charge/further charge,2,0
+1796,No,F,Black,28,S,Boy/Girlfriend,Current,Charge/further charge,1,1
+419,No,M,Black,29,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+1274,Yes,M,Black,29,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+3109,No,M,Black,29,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4969,No,M,Black,29,H,Partner/Spouse,Current,Charge/further charge,0,0
+6118,No,M,Black,29,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+7772,No,M,Black,29,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+7772,No,M,Black,29,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8583,No,M,Black,29,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11203,No,M,Black,29,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11306,No,M,Black,29,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11333,No,M,Black,29,M,Partner/Spouse,Current,Charge/further charge,0,0
+11471,No,F,Black,29,M,Partner/Spouse,Ex,Charge/further charge,0,0
+11663,No,M,Black,29,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12368,Yes,M,Black,29,M,Boy/Girlfriend,Ex,First time charged,0,0
+1147,No,M,Black,29,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+3241,No,M,Black,29,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+11501,No,M,Black,29,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+1789,No,M,Black,29,H,Boy/Girlfriend,Current,Charge/further charge,4,0
+1493,Yes,M,Black,29,M,Boy/Girlfriend,Ex,Charge/further charge,1,1
+3314,No,M,Black,29,H,Boy/Girlfriend,Current,Charge/further charge,1,1
+4928,No,M,Black,29,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6653,No,M,Black,29,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6844,No,F,Black,29,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11641,No,M,Black,29,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11818,No,M,Black,29,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12479,No,F,Black,29,S,Partner/Spouse,Current,Charge/further charge,0,0
+12572,No,M,Black,29,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5378,No,M,Black,29,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+11607,No,M,Black,29,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+179,No,M,Black,30,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+640,No,M,Black,30,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+2530,No,M,Black,30,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+2581,No,M,Black,30,M,Partner/Spouse,Current,Charge/further charge,0,0
+3394,No,F,Black,30,M,Partner/Spouse,Current,Charge/further charge,0,0
+4534,No,M,Black,30,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+5989,No,M,Black,30,H,Partner/Spouse,Current,Charge/further charge,0,0
+6230,No,M,Black,30,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6251,No,M,Black,30,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+6601,No,M,Black,30,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+9953,No,M,Black,30,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10204,Yes,M,Black,30,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10989,No,M,Black,30,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11811,No,M,Black,30,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11906,No,M,Black,30,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12198,No,F,Black,30,M,Partner/Spouse,Current,Charge/further charge,0,0
+12360,No,M,Black,30,H,Boy/Girlfriend,Ex,Third and subsequent time charged,0,0
+12586,No,M,Black,30,M,Partner/Spouse,Ex,Third and subsequent time charged,0,0
+3363,No,M,Black,30,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+4810,No,M,Black,30,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+7895,No,M,Black,30,M,Partner/Spouse,Ex,First time charged,1,0
+12232,No,F,Black,30,M,Boy/Girlfriend,Current,Second time charged,1,0
+10867,No,M,Black,30,M,Boy/Girlfriend,Ex,Charge/further charge,2,0
+1789,No,M,Black,30,H,Boy/Girlfriend,Current,Charge/further charge,4,0
+6555,No,M,Black,30,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6752,No,F,Black,30,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10352,No,M,Black,30,S,Boy/Girlfriend,Ex,TIC,0,0
+10431,No,F,Black,30,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11120,No,M,Black,30,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11229,No,F,Black,30,S,Boy/Girlfriend,Ex,Adult caution,0,0
+11511,Yes,M,Black,30,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11995,No,M,Black,30,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11525,Yes,M,Black,30,S,Partner/Spouse,Current,Charge/further charge,1,0
+3091,No,M,Black,30,S,Partner/Spouse,Current,Charge/further charge,1,1
+594,No,M,Black,31,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+833,No,M,Black,31,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+833,No,M,Black,31,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+2631,No,F,Black,31,H,Partner/Spouse,Current,Charge/further charge,0,0
+3283,No,M,Black,31,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+9836,No,M,Black,31,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11365,No,M,Black,31,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12589,No,M,Black,31,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12644,No,M,Black,31,H,Boy/Girlfriend,Current,Second time charged,0,0
+7731,No,M,Black,31,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+10133,No,M,Black,31,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+10827,No,M,Black,31,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+5169,No,M,Black,31,M,Boy/Girlfriend,Current,Charge/further charge,10,0
+2205,No,M,Black,31,H,Boy/Girlfriend,Current,Charge/further charge,1,1
+6837,No,M,Black,31,M,Boy/Girlfriend,Ex,Charge/further charge,1,1
+4319,Yes,M,Black,31,S,Partner/Spouse,Current,Charge/further charge,0,0
+6166,No,M,Black,31,S,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+7368,No,M,Black,31,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10350,No,M,Black,31,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12599,No,M,Black,31,S,Partner/Spouse,Ex,First time charged,0,0
+12599,No,M,Black,31,S,Partner/Spouse,Ex,First time charged,0,0
+6817,No,M,Black,31,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+9262,No,M,Black,31,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+11433,No,M,Black,31,S,Boy/Girlfriend,Current,Charge/further charge,2,0
+2796,No,M,Black,32,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+2796,No,M,Black,32,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3426,No,M,Black,32,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11691,No,M,Black,32,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12465,Yes,M,Black,32,H,Boy/Girlfriend,Ex,First time charged,0,0
+12481,No,M,Black,32,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+1023,No,M,Black,32,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+3384,Yes,M,Black,32,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+5238,No,M,Black,32,M,Boy/Girlfriend,Current,Charge/further charge,3,0
+532,No,M,Black,32,M,Partner/Spouse,Ex,Charge/further charge,4,0
+3383,No,M,Black,32,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7675,No,F,Black,32,S,Boy/Girlfriend,Ex,Adult caution,0,0
+8690,No,M,Black,32,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9517,No,F,Black,32,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10641,No,M,Black,32,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10813,No,M,Black,32,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11278,No,M,Black,32,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12380,No,F,Black,32,S,Partner/Spouse,Current,Third and subsequent time charged,0,0
+8249,No,F,Black,32,S,Boy/Girlfriend,Current,Charge/further charge,4,0
+3459,No,M,Black,32,S,Boy/Girlfriend,Current,Charge/further charge,1,1
+467,No,M,Black,33,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+1301,Yes,M,Black,33,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+3387,No,M,Black,33,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+5709,No,M,Black,33,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+6496,No,M,Black,33,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6734,No,F,Black,33,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+7774,No,F,Black,33,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+8706,No,M,Black,33,M,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+10703,No,M,Black,33,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11507,No,M,Black,33,M,Partner/Spouse,Current,Charge/further charge,0,0
+11539,No,F,Black,33,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12392,No,M,Black,33,M,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+12671,No,M,Black,33,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+1132,No,M,Black,33,M,Boy/Girlfriend,Ex,Charge/further charge,2,0
+1132,No,M,Black,33,M,Boy/Girlfriend,Ex,Charge/further charge,2,0
+3034,No,M,Black,33,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6446,No,M,Black,33,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10389,No,M,Black,33,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11126,No,M,Black,33,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+111,No,M,Black,33,S,Boy/Girlfriend,Ex,Postal Charge Requisition,2,0
+645,No,M,Black,34,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+1399,No,M,Black,34,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+2705,No,M,Black,34,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6695,No,M,Black,34,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+8569,No,M,Black,34,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8917,No,M,Black,34,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10857,No,M,Black,34,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11544,Yes,M,Black,34,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12215,No,M,Black,34,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8001,No,M,Black,34,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+7045,No,F,Black,34,H,Boy/Girlfriend,Current,Charge/further charge,2,0
+12495,No,M,Black,34,H,Boy/Girlfriend,Current,Third and subsequent time charged,2,0
+630,Yes,M,Black,34,H,Boy/Girlfriend,Current,Charge/further charge,1,1
+1989,Yes,F,Black,34,M,Boy/Girlfriend,Ex,Charge/further charge,1,1
+4224,No,M,Black,34,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5892,Yes,M,Black,34,Unknown,Boy/Girlfriend,Current,Charge/further charge,0,0
+6644,No,F,Black,34,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6677,No,M,Black,34,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6984,No,M,Black,34,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7291,No,M,Black,34,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10882,No,F,Black,34,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5101,No,M,Black,34,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+11223,Yes,M,Black,34,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+1313,No,M,Black,35,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+3703,No,F,Black,35,M,Partner/Spouse,Current,Charge/further charge,0,0
+4823,No,F,Black,35,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5298,No,M,Black,35,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+5916,No,M,Black,35,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9850,Yes,M,Black,35,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10835,No,F,Black,35,M,Partner/Spouse,Current,Charge/further charge,0,0
+11804,No,M,Black,35,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12155,Yes,M,Black,35,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+2156,No,M,Black,35,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+10737,No,M,Black,35,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+11695,No,M,Black,35,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+6842,No,M,Black,35,M,Boy/Girlfriend,Ex,Charge/further charge,2,0
+5722,No,M,Black,35,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6378,No,M,Black,35,S,Partner/Spouse,Current,Charge/further charge,0,0
+9587,No,M,Black,35,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10456,No,M,Black,35,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11409,No,F,Black,35,S,Boy/Girlfriend,Current,Adult caution,0,0
+11860,Yes,M,Black,35,S,Partner/Spouse,Current,Charge/further charge,0,0
+12591,Yes,M,Black,35,S,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+10029,No,M,Black,35,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+11631,No,M,Black,35,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+496,No,M,Black,36,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+3335,No,M,Black,36,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4161,No,M,Black,36,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+7712,No,M,Black,36,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+9096,No,M,Black,36,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+1125,No,F,Black,36,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+5747,Yes,F,Black,36,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+288,No,M,Black,36,M,Boy/Girlfriend,Ex,Charge/further charge,1,1
+3287,No,M,Black,36,H,Boy/Girlfriend,Ex,Charge/further charge,2,1
+910,No,M,Black,36,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+1774,No,M,Black,36,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3652,No,M,Black,36,S,Partner/Spouse,Ex,Charge/further charge,0,0
+8629,No,M,Black,36,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12431,No,M,Black,36,S,Partner/Spouse,Current,Charge/further charge,0,0
+532,No,M,Black,36,S,Boy/Girlfriend,Ex,Charge/further charge,4,0
+465,No,M,Black,37,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4840,No,M,Black,37,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+7758,No,M,Black,37,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11181,Yes,M,Black,37,H,Partner/Spouse,Current,Charge/further charge,0,0
+11707,No,F,Black,37,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11881,No,F,Black,37,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+430,No,F,Black,37,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+2048,No,M,Black,37,H,Boy/Girlfriend,Current,Postal Charge Requisition,1,0
+12545,No,M,Black,37,H,Boy/Girlfriend,Ex,First time charged,1,0
+5688,No,M,Black,37,H,Boy/Girlfriend,Ex,Charge/further charge,2,1
+198,No,M,Black,37,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+737,No,M,Black,37,S,Partner/Spouse,Current,Charge/further charge,0,0
+2136,No,M,Black,37,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+2722,No,M,Black,37,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+4044,No,F,Black,37,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+8706,No,M,Black,37,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10248,No,M,Black,37,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10469,No,F,Black,37,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10586,Yes,M,Black,37,S,Partner/Spouse,Current,Charge/further charge,0,0
+11198,No,M,Black,37,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11493,No,F,Black,37,S,Boy/Girlfriend,Current,Adult caution,0,0
+10066,No,M,Black,37,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+11293,No,M,Black,37,S,Partner/Spouse,Ex,Charge/further charge,1,0
+4,Yes,M,Black,38,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+1768,No,M,Black,38,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+1850,Yes,M,Black,38,H,Partner/Spouse,Current,Charge/further charge,0,0
+2072,No,F,Black,38,M,Partner/Spouse,Current,Charge/further charge,0,0
+3533,No,M,Black,38,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+4498,No,M,Black,38,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+8443,No,M,Black,38,M,Partner/Spouse,Current,Charge/further charge,0,0
+9889,Yes,M,Black,38,H,Partner/Spouse,Current,Charge/further charge,0,0
+10648,No,M,Black,38,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11535,No,M,Black,38,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11851,No,M,Black,38,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12192,No,F,Black,38,H,Boy/Girlfriend,Current,First time charged,0,0
+12607,No,M,Black,38,H,Partner/Spouse,Ex,Second time charged,0,0
+745,No,M,Black,38,H,Boy/Girlfriend,Current,Postal Charge Requisition,1,0
+1375,No,M,Black,38,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+532,No,M,Black,38,H,Partner/Spouse,Current,Postal Charge Requisition,4,0
+6011,No,F,Black,38,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6138,No,M,Black,38,S,Partner/Spouse,Ex,Charge/further charge,0,0
+11725,No,F,Black,38,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10022,Yes,M,Black,38,Unknown,Boy/Girlfriend,Current,Charge/further charge,1,0
+12576,No,M,Black,38,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+783,No,M,Black,39,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+3696,Yes,M,Black,39,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4424,No,M,Black,39,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+5352,No,M,Black,39,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5686,No,F,Black,39,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+6884,No,M,Black,39,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+9947,No,F,Black,39,M,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+11589,No,M,Black,39,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12592,Yes,M,Black,39,H,Boy/Girlfriend,Current,First time charged,0,0
+12592,No,M,Black,39,H,Boy/Girlfriend,Current,First time charged,0,0
+12601,No,M,Black,39,M,Boy/Girlfriend,Ex,Third and subsequent time charged,0,0
+3395,No,M,Black,39,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+1616,No,M,Black,39,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5616,No,F,Black,39,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+8135,No,F,Black,39,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9177,No,M,Black,39,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+1805,No,F,Black,39,S,Boy/Girlfriend,Current,Charge/further charge,1,1
+484,Yes,M,Black,40,H,Partner/Spouse,Current,Charge/further charge,0,0
+2336,Yes,M,Black,40,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+2592,No,M,Black,40,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+3284,No,M,Black,40,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10862,Yes,M,Black,40,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11235,No,M,Black,40,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11542,No,M,Black,40,M,Partner/Spouse,Current,Charge/further charge,0,0
+11542,No,M,Black,40,M,Partner/Spouse,Current,Charge/further charge,0,0
+11653,No,M,Black,40,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11653,No,M,Black,40,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11775,No,M,Black,40,H,Partner/Spouse,Current,Charge/further charge,0,0
+12609,No,F,Black,40,H,Partner/Spouse,Current,First time charged,0,0
+6379,Yes,M,Black,40,S,Partner/Spouse,Current,Charge/further charge,0,0
+8131,No,M,Black,40,S,Partner/Spouse,Current,Third and subsequent time charged,0,0
+8875,No,F,Black,40,S,Partner/Spouse,Current,Charge/further charge,0,0
+10472,No,F,Black,40,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10862,Yes,M,Black,40,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11321,No,F,Black,40,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12421,No,F,Black,40,S,Boy/Girlfriend,Current,First time charged,0,0
+2479,No,M,Black,40,S,Boy/Girlfriend,Current,First time charged,1,0
+11205,No,M,Black,40,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+4876,No,F,Black,40,S,Partner/Spouse,Current,Charge/further charge,8,1
+1217,No,M,Black,41,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+4115,No,M,Black,41,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+4956,Yes,M,Black,41,H,Partner/Spouse,Current,Charge/further charge,0,0
+11317,No,M,Black,41,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11547,No,M,Black,41,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11928,No,M,Black,41,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11956,No,M,Black,41,M,Partner/Spouse,Current,Charge/further charge,0,0
+12459,Yes,M,Black,41,H,Boy/Girlfriend,Current,First time charged,0,0
+7396,Yes,M,Black,41,H,Partner/Spouse,Current,Charge/further charge,1,0
+11423,No,M,Black,41,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+12477,No,M,Black,41,M,Boy/Girlfriend,Current,Third and subsequent time charged,1,1
+7475,No,M,Black,41,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8362,No,M,Black,41,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9609,No,M,Black,41,S,Partner/Spouse,Ex,Charge/further charge,0,0
+9609,No,M,Black,41,S,Partner/Spouse,Ex,Charge/further charge,0,0
+9623,No,F,Black,41,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11726,No,M,Black,41,S,Partner/Spouse,Current,Charge/further charge,0,0
+11772,Yes,M,Black,41,S,Partner/Spouse,Current,Charge/further charge,0,0
+12105,No,M,Black,41,S,Boy/Girlfriend,Ex,First time charged,0,0
+5605,No,M,Black,41,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+2976,No,M,Black,42,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3445,No,M,Black,42,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+9966,No,M,Black,42,M,Boy/Girlfriend,Current,Adult caution,0,0
+12570,Yes,M,Black,42,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+819,No,F,Black,42,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+10047,No,F,Black,42,S,Partner/Spouse,Current,Charge/further charge,0,0
+5833,No,M,Black,42,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+11581,No,M,Black,42,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+1882,Yes,M,Black,42,S,Partner/Spouse,Current,Charge/further charge,1,1
+4400,No,M,Black,43,M,Partner/Spouse,Ex,Charge/further charge,0,0
+6780,No,M,Black,43,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+9947,No,F,Black,43,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+10763,No,M,Black,43,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11290,No,M,Black,43,M,Partner/Spouse,Current,Charge/further charge,0,0
+12437,Yes,M,Black,43,H,Boy/Girlfriend,Current,Second time charged,0,0
+8486,No,M,Black,43,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+12164,No,M,Black,43,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+899,No,M,Black,43,M,Boy/Girlfriend,Current,Charge/further charge,2,1
+3092,No,M,Black,43,S,Partner/Spouse,Current,Charge/further charge,0,0
+6444,No,M,Black,43,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6685,No,M,Black,43,S,Boy/Girlfriend,Ex,Adult caution,0,0
+10479,Yes,M,Black,43,Unknown,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11444,No,F,Black,43,S,Partner/Spouse,Current,Adult caution,0,0
+11602,No,M,Black,43,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11946,No,M,Black,43,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12008,No,M,Black,43,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12619,No,M,Black,43,S,Partner/Spouse,Current,Charge/further charge,0,0
+3672,No,M,Black,43,S,Partner/Spouse,Current,Charge/further charge,1,0
+11948,Yes,M,Black,43,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+149,Yes,M,Black,44,H,Partner/Spouse,Current,Charge/further charge,0,0
+149,Yes,M,Black,44,H,Partner/Spouse,Current,Charge/further charge,0,0
+1754,No,M,Black,44,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+9753,No,M,Black,44,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9969,No,M,Black,44,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11314,Yes,F,Black,44,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11867,No,M,Black,44,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+814,No,M,Black,44,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+3714,No,M,Black,44,H,Partner/Spouse,Current,Charge/further charge,1,0
+11446,No,M,Black,44,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+2127,No,F,Black,44,S,Boy/Girlfriend,Current,Postal Charge Requisition,0,0
+3288,No,M,Black,44,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6441,No,M,Black,44,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6767,No,M,Black,44,S,Partner/Spouse,Current,Charge/further charge,0,0
+10127,No,F,Black,44,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11436,No,M,Black,44,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11731,No,F,Black,44,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11908,No,M,Black,44,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11567,No,M,Black,44,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+5944,No,M,Black,44,S,Boy/Girlfriend,Current,Charge/further charge,1,1
+5293,No,M,Black,45,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10051,No,M,Black,45,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10198,No,M,Black,45,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+10986,No,M,Black,45,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11758,No,F,Black,45,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11778,No,M,Black,45,M,Partner/Spouse,Current,Charge/further charge,0,0
+12188,No,M,Black,45,H,Partner/Spouse,Current,First time charged,0,0
+12188,No,M,Black,45,H,Partner/Spouse,Current,First time charged,0,0
+5950,No,F,Black,45,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5950,No,F,Black,45,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6210,No,F,Black,45,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11327,No,M,Black,45,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+170,No,M,Black,46,M,Partner/Spouse,Current,Charge/further charge,0,0
+5921,No,M,Black,46,H,Partner/Spouse,Current,Charge/further charge,0,0
+10910,No,M,Black,46,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11088,Yes,M,Black,46,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11572,No,M,Black,46,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12297,No,M,Black,46,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+564,No,M,Black,46,M,Boy/Girlfriend,Ex,Charge/further charge,1,1
+8525,No,M,Black,46,M,Boy/Girlfriend,Ex,Charge/further charge,8,4
+8525,No,M,Black,46,H,Boy/Girlfriend,Current,Charge/further charge,8,4
+11416,No,M,Black,46,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11237,No,M,Black,46,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+1127,No,M,Black,47,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+1127,No,M,Black,47,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6266,No,M,Black,47,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+10313,No,M,Black,47,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10552,No,F,Black,47,H,Partner/Spouse,Current,Charge/further charge,0,0
+11606,No,M,Black,47,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11621,No,F,Black,47,H,Partner/Spouse,Current,Charge/further charge,0,0
+11997,No,M,Black,47,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+233,No,M,Black,47,M,Boy/Girlfriend,Current,Charge/further charge,1,1
+1757,No,M,Black,47,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+4121,No,M,Black,47,S,Partner/Spouse,Current,Charge/further charge,0,0
+5609,No,M,Black,47,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9796,No,F,Black,47,S,Partner/Spouse,Current,Charge/further charge,0,0
+11508,No,M,Black,47,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11978,No,M,Black,47,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11982,No,M,Black,47,S,Partner/Spouse,Current,Charge/further charge,0,0
+160,No,M,Black,48,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+2528,No,F,Black,48,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3336,No,F,Black,48,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3589,No,M,Black,48,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4354,Yes,M,Black,48,H,Partner/Spouse,Current,Charge/further charge,0,0
+8010,Yes,M,Black,48,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+9477,No,M,Black,48,M,Partner/Spouse,Current,Summons,0,0
+9477,No,M,Black,48,M,Partner/Spouse,Current,Summons,0,0
+10568,No,M,Black,48,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10811,No,M,Black,48,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11480,No,M,Black,48,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11709,No,M,Black,48,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+205,No,M,Black,48,S,Partner/Spouse,Current,Charge/further charge,0,0
+1608,No,M,Black,48,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3377,No,M,Black,48,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6382,No,F,Black,48,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6682,No,M,Black,48,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+7588,No,M,Black,48,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+4833,No,M,Black,48,S,Partner/Spouse,Current,Charge/further charge,1,1
+2533,No,M,Black,49,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+9691,No,M,Black,49,M,Partner/Spouse,Current,Charge/further charge,1,0
+113,No,F,Black,49,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+411,No,M,Black,49,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3288,No,M,Black,49,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6942,Yes,M,Black,49,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11674,Yes,F,Black,49,S,Partner/Spouse,Current,Charge/further charge,0,0
+10615,No,M,Black,49,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+2384,Yes,M,Black,50,M,Partner/Spouse,Current,Charge/further charge,0,0
+3228,No,F,Black,50,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+5022,No,M,Black,50,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5806,No,M,Black,50,H,Partner/Spouse,Current,Charge/further charge,0,0
+5969,No,M,Black,50,H,Partner/Spouse,Current,Charge/further charge,0,0
+6827,No,M,Black,50,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+7101,No,M,Black,50,H,Partner/Spouse,Ex,Charge/further charge,0,0
+9110,No,M,Black,50,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11777,No,M,Black,50,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12315,No,M,Black,50,M,Boy/Girlfriend,Ex,Third and subsequent time charged,0,0
+306,No,M,Black,50,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+1308,Yes,M,Black,50,S,Partner/Spouse,Current,Charge/further charge,0,0
+5896,No,M,Black,50,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6615,No,F,Black,50,S,Partner/Spouse,Current,Charge/further charge,0,0
+383,No,M,Black,51,M,Boy/Girlfriend,Ex,Postal Charge Requisition,0,0
+7318,No,M,Black,51,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+8867,No,M,Black,51,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11869,No,M,Black,51,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12218,No,M,Black,51,M,Partner/Spouse,Ex,First time charged,0,0
+1800,No,M,Black,51,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+12176,No,F,Black,51,S,Boy/Girlfriend,Ex,First time charged,0,0
+12294,No,F,Black,51,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11411,No,M,Black,52,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12387,Yes,M,Black,52,H,Partner/Spouse,Current,First time charged,0,0
+743,No,M,Black,52,H,Boy/Girlfriend,Ex,Charge/further charge,2,0
+8418,No,M,Black,52,S,Boy/Girlfriend,Current,Adult caution,0,0
+10455,No,M,Black,52,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11387,No,F,Black,52,S,Partner/Spouse,Current,Charge/further charge,0,0
+501,No,M,Black,53,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+1986,No,F,Black,53,H,Partner/Spouse,Current,Charge/further charge,0,0
+2885,No,M,Black,53,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+7637,No,F,Black,53,M,Partner/Spouse,Current,Charge/further charge,0,0
+8141,Yes,M,Black,53,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12041,Yes,M,Black,53,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12237,No,M,Black,53,M,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+4591,No,M,Black,53,M,Boy/Girlfriend,Ex,Charge/further charge,1,1
+6739,No,M,Black,53,S,Partner/Spouse,Current,Charge/further charge,0,0
+10468,No,M,Black,54,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11430,No,M,Black,54,S,Partner/Spouse,Current,Charge/further charge,0,0
+5685,No,M,Black,55,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+7033,Yes,M,Black,55,H,Partner/Spouse,Current,Charge/further charge,0,0
+8794,No,M,Black,55,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+7203,No,M,Black,55,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+12073,No,F,Black,55,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12660,Yes,M,Black,55,S,Partner/Spouse,Current,Charge/further charge,0,0
+3005,No,M,Black,56,M,Partner/Spouse,Current,Charge/further charge,0,0
+553,No,M,Black,56,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+943,No,F,Black,56,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4734,No,M,Black,56,S,Partner/Spouse,Current,Charge/further charge,0,0
+5201,Yes,M,Black,56,S,Partner/Spouse,Current,Charge/further charge,0,0
+4938,No,M,Black,57,M,Partner/Spouse,Ex,Charge/further charge,0,0
+12098,No,M,Black,58,M,Boy/Girlfriend,Current,First time charged,0,0
+1047,No,M,Black,58,S,Boy/Girlfriend,Current,Postal Charge Requisition,0,0
+1861,Yes,M,Black,59,H,Partner/Spouse,Current,Charge/further charge,0,0
+9032,No,M,Black,59,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10602,No,M,Black,59,S,Partner/Spouse,Current,Charge/further charge,0,0
+11410,No,M,Black,59,S,Partner/Spouse,Ex,Charge/further charge,0,0
+2598,No,M,Black,60,M,Partner/Spouse,Current,Charge/further charge,0,0
+1909,No,M,Black,62,H,Boy/Girlfriend,Ex,Postal Charge Requisition,1,0
+1632,No,M,Black,65,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11753,No,M,Black,66,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11753,No,M,Black,66,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6924,No,M,Black,67,S,Partner/Spouse,Current,Adult caution,0,0
+8140,Yes,M,Black,67,S,Partner/Spouse,Current,Charge/further charge,0,0
+1610,No,M,Black,68,S,Partner/Spouse,Current,Charge/further charge,0,0
+12405,Yes,M,Black,69,S,Boy/Girlfriend,Ex,First time charged,0,0
+11980,No,M,Black,70,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11429,No,M,Black,72,S,Partner/Spouse,Current,Charge/further charge,0,0
+12260,Yes,M,Black,72,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10958,No,F,Black,29,H,Partner/Spouse,Current,Charge/further charge,0,0
+6161,No,F,Black,31,M,Partner/Spouse,Current,Charge/further charge,0,0
+709,No,F,Black,32,M,Partner/Spouse,Current,Charge/further charge,0,0
+7172,No,F,Black,36,S,Partner/Spouse,Current,Charge/further charge,0,0
+11500,No,M,Black,37,S,Partner/Spouse,Current,Charge/further charge,0,0
+9322,No,M,Black,22,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+2349,No,F,"Chinese, Japanese or SE Asian",29,H,Boy/Girlfriend,Current,Postal Charge Requisition,1,0
+5057,No,M,"Chinese, Japanese or SE Asian",21,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+8930,No,M,"Chinese, Japanese or SE Asian",23,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+1222,No,M,"Chinese, Japanese or SE Asian",22,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+7067,No,F,"Chinese, Japanese or SE Asian",25,S,Boy/Girlfriend,Ex,Adult caution,0,0
+6155,No,M,"Chinese, Japanese or SE Asian",28,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+1342,No,M,"Chinese, Japanese or SE Asian",31,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8752,No,M,"Chinese, Japanese or SE Asian",33,S,Partner/Spouse,Current,Charge/further charge,0,0
+8752,No,M,"Chinese, Japanese or SE Asian",33,S,Partner/Spouse,Current,Charge/further charge,0,0
+11935,No,M,"Chinese, Japanese or SE Asian",33,S,Partner/Spouse,Current,Charge/further charge,0,0
+12269,No,M,"Chinese, Japanese or SE Asian",34,S,Partner/Spouse,Ex,Third and subsequent time charged,0,0
+7485,No,M,"Chinese, Japanese or SE Asian",35,S,Partner/Spouse,Ex,Charge/further charge,0,0
+6860,No,M,"Chinese, Japanese or SE Asian",37,S,Partner/Spouse,Current,Charge/further charge,0,0
+10401,No,F,"Chinese, Japanese or SE Asian",37,S,Partner/Spouse,Current,Charge/further charge,0,0
+1384,No,F,"Chinese, Japanese or SE Asian",39,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11559,No,F,"Chinese, Japanese or SE Asian",40,S,Boy/Girlfriend,Current,Adult caution,0,0
+7851,No,F,"Chinese, Japanese or SE Asian",43,S,Partner/Spouse,Current,Charge/further charge,0,0
+11920,No,F,"Chinese, Japanese or SE Asian",43,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10751,No,M,"Chinese, Japanese or SE Asian",47,M,Partner/Spouse,Ex,Charge/further charge,0,0
+1976,Yes,M,"Chinese, Japanese or SE Asian",57,S,Partner/Spouse,Current,Charge/further charge,0,0
+12195,Yes,M,"Chinese, Japanese or SE Asian",62,S,Partner/Spouse,Current,Charge/further charge,0,0
+1655,Yes,M,"Chinese, Japanese or SE Asian",73,S,Partner/Spouse,Current,Charge/further charge,0,0
+2859,No,M,"Chinese, Japanese or SE Asian",25,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+27,No,M,Middle Eastern,27,H,Partner/Spouse,Current,Charge/further charge,0,0
+4558,No,M,Middle Eastern,38,H,Partner/Spouse,Ex,Charge/further charge,0,0
+5195,No,M,Middle Eastern,42,S,Partner/Spouse,Current,Charge/further charge,0,0
+11121,No,M,Middle Eastern,46,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5649,No,M,Middle Eastern,26,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+5827,Yes,M,Middle Eastern,26,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+1292,No,M,Middle Eastern,33,H,Partner/Spouse,Current,Charge/further charge,0,0
+11870,No,M,Middle Eastern,34,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+6816,No,M,Middle Eastern,40,S,Partner/Spouse,Current,Adult caution,0,0
+3048,No,M,Middle Eastern,24,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9809,No,M,Middle Eastern,25,S,Boy/Girlfriend,Ex,Charge/further charge,3,1
+426,No,M,Middle Eastern,47,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+5083,Yes,F,Middle Eastern,19,Unknown,Boy/Girlfriend,Current,Charge/further charge,0,0
+1416,No,M,Middle Eastern,28,M,Boy/Girlfriend,Ex,Charge/further charge,1,1
+119,Yes,M,Middle Eastern,34,Unknown,Boy/Girlfriend,Current,Postal Charge Requisition,0,0
+11123,No,M,Middle Eastern,35,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+11933,No,M,Middle Eastern,35,S,Partner/Spouse,Current,Charge/further charge,0,0
+8381,No,M,Middle Eastern,19,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9580,No,M,Middle Eastern,21,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6016,No,M,Middle Eastern,25,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+9277,No,M,Middle Eastern,28,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+1112,No,M,Middle Eastern,29,S,Partner/Spouse,Current,Charge/further charge,1,1
+8000,No,M,Middle Eastern,30,H,Partner/Spouse,Current,Charge/further charge,0,0
+12486,Yes,M,Middle Eastern,30,H,Partner/Spouse,Current,Charge/further charge,1,0
+2463,No,M,Middle Eastern,33,H,Partner/Spouse,Current,Charge/further charge,0,0
+11893,No,M,Middle Eastern,35,M,Partner/Spouse,Current,Charge/further charge,1,0
+802,No,M,Middle Eastern,35,S,Partner/Spouse,Current,Charge/further charge,0,0
+11969,Yes,M,Middle Eastern,36,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12457,No,M,Middle Eastern,40,M,Partner/Spouse,Current,Charge/further charge,0,0
+10604,No,M,Middle Eastern,40,S,Partner/Spouse,Current,Charge/further charge,0,0
+12656,No,M,Middle Eastern,42,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+734,No,M,Middle Eastern,46,M,Partner/Spouse,Ex,Charge/further charge,1,1
+4988,No,M,Middle Eastern,54,H,Partner/Spouse,Current,Charge/further charge,0,0
+715,No,M,Middle Eastern,62,M,Partner/Spouse,Current,Charge/further charge,0,0
+3285,No,F,North European - White,24,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3062,No,M,North European - White,26,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3483,No,F,North European - White,35,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4412,No,M,North European - White,36,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+3483,No,F,North European - White,41,S,Boy/Girlfriend,Current,Postal Charge Requisition,0,0
+3275,No,M,North European - White,42,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+3275,No,M,North European - White,42,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+934,No,M,North European - White,45,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+10935,No,F,North European - White,13,Unknown,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12047,No,F,North European - White,16,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12118,No,M,North European - White,16,Unknown,Boy/Girlfriend,Current,Charge/further charge,0,0
+2285,No,M,North European - White,16,S,Boy/Girlfriend,Current,Charge/further charge,2,0
+4268,No,M,North European - White,16,S,Boy/Girlfriend,Ex,Charge/further charge,2,0
+326,No,F,North European - White,17,H,Boy/Girlfriend,Current,Youth Caution,0,0
+2727,No,M,North European - White,17,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+2727,No,M,North European - White,17,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+5194,Yes,M,North European - White,17,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9910,No,M,North European - White,17,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11740,No,M,North European - White,17,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5264,No,F,North European - White,18,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11260,Yes,M,North European - White,18,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11807,No,F,North European - White,18,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12037,No,F,North European - White,18,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12110,No,M,North European - White,18,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12488,No,F,North European - White,18,M,Boy/Girlfriend,Ex,First time charged,0,0
+10962,No,M,North European - White,18,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+6002,No,F,North European - White,18,M,Boy/Girlfriend,Ex,Charge/further charge,2,0
+6002,No,F,North European - White,18,M,Boy/Girlfriend,Ex,Charge/further charge,2,0
+601,No,F,North European - White,18,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+4837,No,F,North European - White,18,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6194,No,M,North European - White,18,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7412,No,M,North European - White,18,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8487,No,M,North European - White,18,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11704,No,F,North European - White,18,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12434,No,F,North European - White,18,S,Partner/Spouse,Ex,Adult caution,0,0
+12546,No,M,North European - White,18,S,Boy/Girlfriend,Current,First time charged,0,0
+79,No,M,North European - White,19,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3805,No,M,North European - White,19,M,Boy/Girlfriend,Ex,Postal Charge Requisition,0,0
+5050,No,M,North European - White,19,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9642,No,F,North European - White,19,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+10249,No,M,North European - White,19,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11854,No,F,North European - White,19,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12032,No,M,North European - White,19,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+7438,No,M,North European - White,19,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9644,No,M,North European - White,19,S,Boy/Girlfriend,Ex,Adult caution,0,0
+11191,No,F,North European - White,19,S,Boy/Girlfriend,Current,Adult caution,0,0
+11313,No,M,North European - White,19,S,Boy/Girlfriend,Current,Adult caution,0,0
+11386,No,M,North European - White,19,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12490,No,M,North European - White,19,S,Boy/Girlfriend,Current,First time charged,0,0
+12521,No,M,North European - White,19,S,Boy/Girlfriend,Ex,Third and subsequent time charged,1,0
+12053,No,M,North European - White,19,S,Boy/Girlfriend,Current,Charge/further charge,1,1
+1420,No,M,North European - White,19,S,Boy/Girlfriend,Current,Charge/further charge,2,2
+491,No,M,North European - White,20,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+2243,No,M,North European - White,20,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+2243,No,M,North European - White,20,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+3998,No,M,North European - White,20,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+5769,No,M,North European - White,20,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6057,No,M,North European - White,20,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11440,No,F,North European - White,20,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11443,No,M,North European - White,20,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12147,No,F,North European - White,20,H,Boy/Girlfriend,Current,Second time charged,0,0
+12283,No,M,North European - White,20,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+1560,No,M,North European - White,20,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+2494,No,M,North European - White,20,H,Boy/Girlfriend,Ex,Charge/further charge,2,0
+2494,No,M,North European - White,20,H,Boy/Girlfriend,Ex,Charge/further charge,2,0
+1536,No,M,North European - White,20,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4021,No,M,North European - White,20,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+4635,No,F,North European - White,20,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5726,No,M,North European - White,20,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6800,No,M,North European - White,20,S,Partner/Spouse,Ex,Charge/further charge,0,0
+11271,No,F,North European - White,20,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11404,No,F,North European - White,20,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11469,No,F,North European - White,20,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11616,No,M,North European - White,20,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+2285,No,M,North European - White,20,S,Boy/Girlfriend,Ex,Postal Charge Requisition,2,0
+3749,No,F,North European - White,21,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+5054,No,M,North European - White,21,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+6219,No,M,North European - White,21,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+8178,No,M,North European - White,21,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+10592,No,M,North European - White,21,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11368,No,M,North European - White,21,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11787,No,M,North European - White,21,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12039,No,M,North European - White,21,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12614,No,M,North European - White,21,H,Partner/Spouse,Current,First time charged,0,0
+12639,No,F,North European - White,21,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9014,No,M,North European - White,21,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+12059,No,M,North European - White,21,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+5526,No,M,North European - White,21,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5816,No,F,North European - White,21,Unknown,Boy/Girlfriend,Current,Charge/further charge,0,0
+5856,No,F,North European - White,21,S,Boy/Girlfriend,Current,Adult caution,0,0
+6540,No,M,North European - White,21,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9823,No,F,North European - White,21,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12588,No,F,North European - White,21,S,Boy/Girlfriend,Current,First time charged,0,0
+12596,No,M,North European - White,21,S,Boy/Girlfriend,Ex,First time charged,0,0
+2880,Yes,M,North European - White,22,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+2956,No,M,North European - White,22,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4070,No,M,North European - White,22,H,Partner/Spouse,Current,Charge/further charge,0,0
+7381,Yes,M,North European - White,22,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+9852,No,M,North European - White,22,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11467,No,M,North European - White,22,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12279,No,F,North European - White,22,M,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+2937,No,M,North European - White,22,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+7982,No,M,North European - White,22,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+4268,No,M,North European - White,22,H,Boy/Girlfriend,Current,Charge/further charge,2,0
+8189,No,M,North European - White,22,M,Boy/Girlfriend,Ex,Charge/further charge,1,1
+1683,No,M,North European - White,22,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+1951,No,M,North European - White,22,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+2383,No,F,North European - White,22,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+4562,No,F,North European - White,22,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5572,No,F,North European - White,22,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+7611,No,F,North European - White,22,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7975,No,F,North European - White,22,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9102,No,M,North European - White,22,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10253,No,M,North European - White,22,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11475,No,M,North European - White,22,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11732,No,M,North European - White,22,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12500,No,F,North European - White,22,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11898,No,M,North European - White,22,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+2943,No,F,North European - White,23,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3854,No,M,North European - White,23,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+6437,No,M,North European - White,23,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11144,No,M,North European - White,23,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12314,No,M,North European - White,23,M,Boy/Girlfriend,Ex,Third and subsequent time charged,0,0
+519,No,M,North European - White,23,M,Boy/Girlfriend,Ex,Postal Charge Requisition,1,0
+1963,No,M,North European - White,23,H,Boy/Girlfriend,Current,Third and subsequent time charged,1,0
+3032,No,M,North European - White,23,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+2482,No,F,North European - White,23,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+2482,No,F,North European - White,23,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+2541,No,F,North European - White,23,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+2929,No,F,North European - White,23,S,Boy/Girlfriend,Ex,Postal Charge Requisition,0,0
+5768,No,M,North European - White,23,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10107,No,M,North European - White,23,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10107,No,M,North European - White,23,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10181,No,M,North European - White,23,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11628,No,M,North European - White,23,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12483,No,M,North European - White,23,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+827,No,F,North European - White,24,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+2243,No,M,North European - White,24,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3089,No,M,North European - White,24,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+4151,No,F,North European - White,24,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+5060,No,M,North European - White,24,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9432,No,M,North European - White,24,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10068,No,M,North European - White,24,M,Boy/Girlfriend,Ex,Adult caution,0,0
+10376,No,M,North European - White,24,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11193,No,F,North European - White,24,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11326,No,F,North European - White,24,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11499,No,M,North European - White,24,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11499,No,M,North European - White,24,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11568,No,M,North European - White,24,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11568,No,M,North European - White,24,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11648,No,F,North European - White,24,M,Partner/Spouse,Current,Charge/further charge,0,0
+12129,No,M,North European - White,24,M,Boy/Girlfriend,Ex,Third and subsequent time charged,0,0
+11549,No,F,North European - White,24,M,Partner/Spouse,Current,Charge/further charge,1,0
+1631,No,M,North European - White,24,H,Boy/Girlfriend,Current,Charge/further charge,2,0
+5018,No,M,North European - White,24,H,Boy/Girlfriend,Ex,Charge/further charge,2,0
+5018,No,M,North European - White,24,H,Boy/Girlfriend,Ex,Charge/further charge,2,0
+227,No,M,North European - White,24,H,Boy/Girlfriend,Current,Charge/further charge,1,1
+5638,Yes,F,North European - White,24,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5930,No,M,North European - White,24,S,Partner/Spouse,Ex,Charge/further charge,0,0
+6260,No,F,North European - White,24,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6907,No,F,North European - White,24,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8333,No,F,North European - White,24,S,Boy/Girlfriend,Current,Summons,0,0
+8333,No,F,North European - White,24,S,Boy/Girlfriend,Current,Summons,0,0
+9417,Yes,F,North European - White,24,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9977,Yes,F,North European - White,24,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7414,No,M,North European - White,24,S,Boy/Girlfriend,Ex,Summons,1,0
+6005,No,F,North European - White,25,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10607,Yes,F,North European - White,25,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+10929,No,M,North European - White,25,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12063,No,M,North European - White,25,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12231,No,F,North European - White,25,M,Partner/Spouse,Ex,Second time charged,0,0
+527,No,M,North European - White,25,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+4421,No,F,North European - White,25,H,Partner/Spouse,Current,Charge/further charge,1,0
+11805,No,M,North European - White,25,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+8097,No,F,North European - White,25,H,Partner/Spouse,Ex,Charge/further charge,1,1
+12328,No,M,North European - White,25,M,Boy/Girlfriend,Ex,Charge/further charge,1,1
+1420,No,M,North European - White,25,H,Boy/Girlfriend,Current,Charge/further charge,2,2
+1320,No,M,North European - White,25,S,Boy/Girlfriend,Current,Adult caution,0,0
+3552,No,F,North European - White,25,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5978,No,F,North European - White,25,S,Boy/Girlfriend,Current,Adult caution,0,0
+6727,No,M,North European - White,25,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7660,No,M,North European - White,25,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7984,No,M,North European - White,25,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9661,No,M,North European - White,25,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10086,No,M,North European - White,25,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10669,No,F,North European - White,25,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11118,No,F,North European - White,25,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12236,No,M,North European - White,25,S,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+7180,No,M,North European - White,25,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+3987,No,F,North European - White,25,S,Boy/Girlfriend,Current,Charge/further charge,2,0
+3987,No,F,North European - White,25,S,Boy/Girlfriend,Current,Charge/further charge,2,0
+11255,No,M,North European - White,25,S,Boy/Girlfriend,Ex,Charge/further charge,1,1
+382,No,M,North European - White,26,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+1514,No,M,North European - White,26,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+10499,No,M,North European - White,26,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11591,No,M,North European - White,26,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12180,No,M,North European - White,26,M,Boy/Girlfriend,Ex,Adult caution,0,0
+12648,No,M,North European - White,26,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12666,No,M,North European - White,26,H,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+2003,No,M,North European - White,26,H,Boy/Girlfriend,Ex,Charge/further charge,2,0
+3210,No,M,North European - White,26,M,Boy/Girlfriend,Current,Charge/further charge,2,0
+4055,No,M,North European - White,26,M,Boy/Girlfriend,Current,Charge/further charge,6,0
+4055,No,M,North European - White,26,M,Boy/Girlfriend,Current,Charge/further charge,6,0
+222,No,F,North European - White,26,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+1947,No,M,North European - White,26,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5331,No,F,North European - White,26,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6923,No,F,North European - White,26,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8283,No,M,North European - White,26,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10090,No,M,North European - White,26,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11192,No,F,North European - White,26,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12035,No,M,North European - White,26,S,Partner/Spouse,Current,Charge/further charge,0,0
+12496,No,F,North European - White,26,S,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+795,No,M,North European - White,26,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+2202,Yes,M,North European - White,26,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+1507,No,M,North European - White,26,S,Boy/Girlfriend,Ex,Charge/further charge,1,1
+1472,Yes,F,North European - White,27,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+3787,No,F,North European - White,27,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+4472,No,M,North European - White,27,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+4767,No,M,North European - White,27,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5679,No,M,North European - White,27,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+6012,No,M,North European - White,27,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+6498,No,M,North European - White,27,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6594,No,M,North European - White,27,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+6733,No,M,North European - White,27,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9503,No,M,North European - White,27,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+10065,No,M,North European - White,27,H,Partner/Spouse,Current,Charge/further charge,0,0
+11476,No,M,North European - White,27,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12111,No,F,North European - White,27,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12336,No,M,North European - White,27,M,Boy/Girlfriend,Ex,Third and subsequent time charged,0,0
+12478,No,M,North European - White,27,M,Boy/Girlfriend,Ex,First time charged,0,0
+682,No,M,North European - White,27,H,Boy/Girlfriend,Current,Charge/further charge,1,1
+240,No,M,North European - White,27,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+987,No,M,North European - White,27,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+987,No,M,North European - White,27,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+1067,No,M,North European - White,27,S,Partner/Spouse,Current,Charge/further charge,0,0
+2393,No,F,North European - White,27,S,Boy/Girlfriend,Current,Adult caution,0,0
+4087,No,M,North European - White,27,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5096,Yes,F,North European - White,27,S,Partner/Spouse,Current,Charge/further charge,0,0
+5549,No,F,North European - White,27,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6224,No,F,North European - White,27,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6579,No,F,North European - White,27,S,Boy/Girlfriend,Current,Adult caution,0,0
+10745,No,M,North European - White,27,S,Partner/Spouse,Current,Charge/further charge,0,0
+12526,No,M,North European - White,27,S,Boy/Girlfriend,Current,First time charged,0,0
+12233,Yes,M,North European - White,27,S,Partner/Spouse,Ex,Charge/further charge,1,0
+2281,No,M,North European - White,27,S,Boy/Girlfriend,Current,Postal Charge Requisition,1,1
+4521,No,F,North European - White,27,S,Partner/Spouse,Current,Charge/further charge,1,1
+3113,No,M,North European - White,28,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+3829,No,F,North European - White,28,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+4321,No,M,North European - White,28,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+4480,No,M,North European - White,28,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+6254,No,M,North European - White,28,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+7871,No,M,North European - White,28,M,Boy/Girlfriend,Ex,Adult caution,0,0
+9040,No,M,North European - White,28,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+9774,No,M,North European - White,28,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+10696,No,M,North European - White,28,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11267,No,M,North European - White,28,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11302,Yes,M,North European - White,28,H,Partner/Spouse,Current,Charge/further charge,0,0
+11650,No,F,North European - White,28,M,Partner/Spouse,Current,Charge/further charge,0,0
+12126,No,M,North European - White,28,H,Partner/Spouse,Current,Third and subsequent time charged,0,0
+12285,No,M,North European - White,28,H,Boy/Girlfriend,Ex,Second time charged,0,0
+2213,No,M,North European - White,28,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+10945,No,M,North European - White,28,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+12119,No,M,North European - White,28,H,Boy/Girlfriend,Current,Third and subsequent time charged,1,0
+571,No,M,North European - White,28,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5070,No,M,North European - White,28,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10889,No,M,North European - White,28,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11583,No,F,North European - White,28,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11730,No,M,North European - White,28,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12461,No,M,North European - White,28,S,Partner/Spouse,Ex,First time charged,0,0
+11790,No,M,North European - White,28,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+12012,No,M,North European - White,28,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+10327,No,M,North European - White,28,S,Boy/Girlfriend,Ex,Charge/further charge,3,0
+624,No,M,North European - White,29,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+2545,No,M,North European - White,29,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+3077,No,M,North European - White,29,M,Partner/Spouse,Current,Charge/further charge,0,0
+5778,No,M,North European - White,29,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8280,No,M,North European - White,29,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8698,No,F,North European - White,29,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+9325,No,M,North European - White,29,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11780,No,M,North European - White,29,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11780,No,M,North European - White,29,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12318,No,M,North European - White,29,M,Boy/Girlfriend,Ex,Third and subsequent time charged,0,0
+2,No,M,North European - White,29,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+7770,No,M,North European - White,29,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+7639,No,F,North European - White,29,M,Boy/Girlfriend,Current,Charge/further charge,2,0
+7639,No,F,North European - White,29,M,Boy/Girlfriend,Current,Charge/further charge,2,0
+2545,No,M,North European - White,29,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7874,No,F,North European - White,29,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+8260,No,M,North European - White,29,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+8433,No,M,North European - White,29,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+8787,No,M,North European - White,29,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10043,No,M,North European - White,29,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11318,No,M,North European - White,29,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12021,No,M,North European - White,29,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12068,No,F,North European - White,29,S,Partner/Spouse,Current,Charge/further charge,0,0
+9980,No,F,North European - White,29,S,Partner/Spouse,Current,Charge/further charge,1,0
+4865,No,M,North European - White,29,S,Partner/Spouse,Current,Charge/further charge,1,1
+5804,No,F,North European - White,29,S,Boy/Girlfriend,Ex,Charge/further charge,1,1
+865,No,M,North European - White,30,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+1144,No,M,North European - White,30,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+3068,No,M,North European - White,30,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+3172,No,F,North European - White,30,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+3501,No,M,North European - White,30,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+4180,Yes,M,North European - White,30,H,Partner/Spouse,Current,Charge/further charge,0,0
+5199,No,M,North European - White,30,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+5235,No,M,North European - White,30,M,Partner/Spouse,Current,Charge/further charge,0,0
+6022,No,F,North European - White,30,M,Boy/Girlfriend,Ex,Adult caution,0,0
+6205,No,M,North European - White,30,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+7227,No,M,North European - White,30,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+7529,No,M,North European - White,30,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+7955,No,M,North European - White,30,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+10140,No,M,North European - White,30,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11038,No,M,North European - White,30,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11806,No,M,North European - White,30,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12256,No,M,North European - White,30,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12401,No,M,North European - White,30,M,Boy/Girlfriend,Ex,First time charged,0,0
+12564,No,M,North European - White,30,H,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+11323,No,M,North European - White,30,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+3210,No,M,North European - White,30,H,Boy/Girlfriend,Ex,Charge/further charge,2,0
+8579,No,M,North European - White,30,M,Boy/Girlfriend,Ex,Charge/further charge,1,1
+55,No,M,North European - White,30,H,Boy/Girlfriend,Current,Charge/further charge,2,1
+1921,No,F,North European - White,30,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+2394,No,M,North European - White,30,S,Boy/Girlfriend,Current,Summons,0,0
+2394,No,M,North European - White,30,S,Boy/Girlfriend,Current,Summons,0,0
+8499,No,M,North European - White,30,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9011,No,F,North European - White,30,Unknown,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9458,No,F,North European - White,30,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9798,No,M,North European - White,30,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10530,No,M,North European - White,30,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10797,No,M,North European - White,30,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11353,No,F,North European - White,30,S,Boy/Girlfriend,Current,First time charged,0,0
+11448,No,F,North European - White,30,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11512,No,M,North European - White,30,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11570,No,F,North European - White,30,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12238,No,F,North European - White,30,S,Boy/Girlfriend,Current,First time charged,0,0
+5290,No,M,North European - White,30,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+214,No,F,North European - White,31,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+214,No,F,North European - White,31,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+3385,No,F,North European - White,31,M,Partner/Spouse,Current,Adult caution,0,0
+6507,No,M,North European - White,31,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+7714,No,M,North European - White,31,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8304,No,M,North European - White,31,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+8304,No,M,North European - White,31,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+9381,No,M,North European - White,31,M,Partner/Spouse,Current,Charge/further charge,0,0
+9616,No,M,North European - White,31,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+10258,No,M,North European - White,31,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+10993,No,M,North European - White,31,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11030,No,F,North European - White,31,M,Partner/Spouse,Current,Charge/further charge,0,0
+11163,No,M,North European - White,31,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11356,No,M,North European - White,31,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11639,No,F,North European - White,31,M,Partner/Spouse,Current,Charge/further charge,0,0
+12086,No,M,North European - White,31,M,Boy/Girlfriend,Current,First time charged,0,0
+12113,No,M,North European - White,31,H,Boy/Girlfriend,Ex,Third and subsequent time charged,0,0
+12323,Yes,M,North European - White,31,M,Boy/Girlfriend,Current,First time charged,0,0
+12652,No,M,North European - White,31,H,Partner/Spouse,Current,First time charged,0,0
+684,No,M,North European - White,31,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+2639,No,F,North European - White,31,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+11277,No,M,North European - White,31,M,Partner/Spouse,Current,Charge/further charge,1,0
+1631,No,M,North European - White,31,H,Boy/Girlfriend,Ex,Charge/further charge,2,0
+3380,No,M,North European - White,31,H,Boy/Girlfriend,Ex,Charge/further charge,1,1
+1524,No,M,North European - White,31,M,Boy/Girlfriend,Current,Charge/further charge,2,2
+4452,No,M,North European - White,31,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5078,Yes,M,North European - White,31,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5178,No,M,North European - White,31,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6300,No,F,North European - White,31,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6741,No,M,North European - White,31,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11490,No,M,North European - White,31,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11660,No,M,North European - White,31,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12048,No,M,North European - White,31,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12048,No,M,North European - White,31,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12280,No,F,North European - White,31,S,Boy/Girlfriend,Current,First time charged,0,0
+12655,No,M,North European - White,31,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10502,Yes,M,North European - White,31,S,Partner/Spouse,Ex,Charge/further charge,1,0
+11082,No,M,North European - White,31,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+4569,Yes,M,North European - White,31,S,Boy/Girlfriend,Ex,Charge/further charge,2,0
+4569,Yes,M,North European - White,31,S,Boy/Girlfriend,Ex,Charge/further charge,2,0
+11647,No,F,North European - White,31,S,Boy/Girlfriend,Ex,Charge/further charge,1,1
+141,No,M,North European - White,32,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+1017,No,F,North European - White,32,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+1425,No,F,North European - White,32,M,Partner/Spouse,Current,Charge/further charge,0,0
+1664,Yes,M,North European - White,32,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+2486,No,M,North European - White,32,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+5472,No,M,North European - White,32,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+6468,No,F,North European - White,32,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+7260,No,F,North European - White,32,M,Partner/Spouse,Current,Charge/further charge,0,0
+7378,No,M,North European - White,32,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9163,No,M,North European - White,32,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11298,No,M,North European - White,32,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11347,No,F,North European - White,32,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11353,No,F,North European - White,32,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11643,No,M,North European - White,32,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11919,No,M,North European - White,32,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12160,No,M,North European - White,32,M,Partner/Spouse,Current,Charge/further charge,0,0
+12160,No,M,North European - White,32,M,Partner/Spouse,Current,Charge/further charge,0,0
+3726,No,M,North European - White,32,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+12597,No,M,North European - White,32,M,Boy/Girlfriend,Ex,Third and subsequent time charged,1,0
+12584,No,F,North European - White,32,M,Boy/Girlfriend,Ex,Third and subsequent time charged,1,1
+984,Yes,M,North European - White,32,Unknown,Boy/Girlfriend,Ex,Charge/further charge,0,0
+1053,No,M,North European - White,32,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+1189,No,M,North European - White,32,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4652,No,M,North European - White,32,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6331,No,M,North European - White,32,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7830,No,F,North European - White,32,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9603,No,M,North European - White,32,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10166,No,F,North European - White,32,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10199,No,F,North European - White,32,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11503,No,M,North European - White,32,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11530,No,M,North European - White,32,S,Partner/Spouse,Ex,Charge/further charge,0,0
+11530,No,M,North European - White,32,S,Partner/Spouse,Ex,Charge/further charge,0,0
+11918,No,F,North European - White,32,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12535,No,M,North European - White,32,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+846,Yes,M,North European - White,32,Unknown,Partner/Spouse,Current,Charge/further charge,1,0
+9863,No,M,North European - White,32,S,Boy/Girlfriend,Ex,Charge/further charge,2,0
+9863,No,M,North European - White,32,S,Boy/Girlfriend,Ex,Charge/further charge,2,0
+4418,No,M,North European - White,32,S,Boy/Girlfriend,Current,Charge/further charge,1,1
+4593,No,F,North European - White,32,S,Boy/Girlfriend,Current,Charge/further charge,1,1
+2222,No,F,North European - White,33,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+2347,No,M,North European - White,33,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+3036,No,M,North European - White,33,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+3443,No,M,North European - White,33,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+4580,No,M,North European - White,33,H,Partner/Spouse,Current,Charge/further charge,0,0
+8826,No,M,North European - White,33,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+10140,Yes,M,North European - White,33,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+10237,No,F,North European - White,33,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+10596,No,M,North European - White,33,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11151,No,M,North European - White,33,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11487,No,M,North European - White,33,H,Partner/Spouse,Current,Charge/further charge,0,0
+11636,No,F,North European - White,33,H,Boy/Girlfriend,Current,Adult caution,0,0
+11789,No,F,North European - White,33,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12183,No,M,North European - White,33,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+1464,No,F,North European - White,33,M,Boy/Girlfriend,Current,Charge/further charge,2,0
+4820,No,M,North European - White,33,M,Boy/Girlfriend,Current,Adult caution,2,2
+3209,No,M,North European - White,33,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+3471,No,M,North European - White,33,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+4659,Yes,M,North European - White,33,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9085,Yes,M,North European - White,33,S,Partner/Spouse,Ex,Charge/further charge,0,0
+9465,No,M,North European - White,33,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11080,No,M,North European - White,33,S,Boy/Girlfriend,Ex,Adult caution,0,0
+11239,No,F,North European - White,33,S,Partner/Spouse,Current,Charge/further charge,0,0
+6670,No,M,North European - White,33,S,Partner/Spouse,Current,Charge/further charge,1,0
+438,No,M,North European - White,33,S,Boy/Girlfriend,Ex,Charge/further charge,1,1
+11208,No,M,North European - White,33,S,Boy/Girlfriend,Current,Charge/further charge,1,1
+11296,No,M,North European - White,33,S,Boy/Girlfriend,Ex,Charge/further charge,2,2
+11296,No,M,North European - White,33,S,Boy/Girlfriend,Ex,Charge/further charge,2,2
+705,Yes,M,North European - White,34,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+1502,No,M,North European - White,34,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+1502,No,M,North European - White,34,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+2839,No,M,North European - White,34,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4059,No,M,North European - White,34,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+8233,No,M,North European - White,34,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9287,No,M,North European - White,34,H,Partner/Spouse,Current,Charge/further charge,0,0
+11459,No,M,North European - White,34,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11529,No,M,North European - White,34,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12234,No,M,North European - White,34,M,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+990,Yes,M,North European - White,34,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+11897,No,M,North European - White,34,H,Partner/Spouse,Current,Charge/further charge,1,0
+12559,Yes,M,North European - White,34,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+10953,No,M,North European - White,34,H,Boy/Girlfriend,Current,Charge/further charge,1,1
+12659,No,M,North European - White,34,M,Boy/Girlfriend,Ex,Charge/further charge,1,1
+110,Yes,F,North European - White,34,Unknown,Partner/Spouse,Ex,Charge/further charge,0,0
+848,No,M,North European - White,34,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+2948,No,M,North European - White,34,S,Partner/Spouse,Current,Charge/further charge,0,0
+3919,No,F,North European - White,34,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+3930,No,F,North European - White,34,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7156,Yes,M,North European - White,34,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10970,No,M,North European - White,34,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11266,No,F,North European - White,34,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11513,No,M,North European - White,34,S,Partner/Spouse,Current,Charge/further charge,0,0
+11744,No,F,North European - White,34,S,Partner/Spouse,Current,Charge/further charge,0,0
+12002,No,F,North European - White,34,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12157,No,F,North European - White,34,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12258,No,M,North European - White,34,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12310,No,F,North European - White,34,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+1638,No,M,North European - White,35,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5659,No,F,North European - White,35,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+7720,No,M,North European - White,35,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+8669,No,F,North European - White,35,M,Boy/Girlfriend,Current,Summons,0,0
+8967,No,M,North European - White,35,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+9354,No,M,North European - White,35,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9695,No,M,North European - White,35,H,Partner/Spouse,Current,Charge/further charge,0,0
+10712,No,M,North European - White,35,M,Boy/Girlfriend,Ex,First time charged,0,0
+10807,Yes,M,North European - White,35,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10982,No,F,North European - White,35,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11155,No,M,North European - White,35,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11801,No,M,North European - White,35,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12562,No,M,North European - White,35,M,Boy/Girlfriend,Ex,Third and subsequent time charged,0,0
+12658,No,F,North European - White,35,M,Boy/Girlfriend,Current,First time charged,0,0
+1165,No,M,North European - White,35,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+2204,No,M,North European - White,35,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+11482,No,M,North European - White,35,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+1361,No,M,North European - White,35,M,Boy/Girlfriend,Current,Charge/further charge,2,0
+76,No,M,North European - White,35,M,Boy/Girlfriend,Current,Charge/further charge,3,1
+1304,No,M,North European - White,35,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+3494,No,M,North European - White,35,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+3980,No,M,North European - White,35,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+4633,No,M,North European - White,35,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9725,No,F,North European - White,35,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9943,No,M,North European - White,35,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10522,No,M,North European - White,35,S,Boy/Girlfriend,Current,Adult caution,0,0
+11165,No,M,North European - White,35,S,Partner/Spouse,Ex,Charge/further charge,0,0
+11165,No,M,North European - White,35,S,Partner/Spouse,Ex,Charge/further charge,0,0
+11658,No,M,North European - White,35,S,Partner/Spouse,Ex,Charge/further charge,0,0
+11852,No,F,North European - White,35,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12662,No,M,North European - White,35,S,Partner/Spouse,Current,First time charged,0,0
+7886,No,M,North European - White,35,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+11846,No,M,North European - White,35,S,Boy/Girlfriend,Ex,First time charged,1,0
+12066,No,M,North European - White,35,S,Boy/Girlfriend,Ex,Charge/further charge,1,1
+2221,Yes,M,North European - White,35,S,Partner/Spouse,Current,Charge/further charge,2,2
+2550,No,M,North European - White,36,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+2813,No,M,North European - White,36,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+4687,No,M,North European - White,36,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+5815,No,F,North European - White,36,M,Partner/Spouse,Current,Charge/further charge,0,0
+6836,No,F,North European - White,36,H,Partner/Spouse,Current,Charge/further charge,0,0
+7022,No,M,North European - White,36,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+7209,No,F,North European - White,36,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+7810,No,M,North European - White,36,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11925,Yes,M,North European - White,36,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12460,No,M,North European - White,36,H,Boy/Girlfriend,Ex,First time charged,0,0
+12658,No,F,North European - White,36,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+158,No,M,North European - White,36,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+1970,No,M,North European - White,36,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+84,No,M,North European - White,36,S,Partner/Spouse,Current,Charge/further charge,0,0
+950,No,F,North European - White,36,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+3424,No,F,North European - White,36,S,Partner/Spouse,Current,Charge/further charge,0,0
+4105,No,M,North European - White,36,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5415,No,F,North European - White,36,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5587,No,M,North European - White,36,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+8078,No,F,North European - White,36,S,Boy/Girlfriend,Current,Adult caution,0,0
+8414,No,F,North European - White,36,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+8955,No,F,North European - White,36,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10104,No,M,North European - White,36,S,Boy/Girlfriend,Current,First time charged,0,0
+10113,No,M,North European - White,36,S,Boy/Girlfriend,Current,Adult caution,0,0
+11135,Yes,M,North European - White,36,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11776,No,M,North European - White,36,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12527,No,M,North European - White,36,S,Partner/Spouse,Current,First time charged,0,0
+1534,No,F,North European - White,36,S,Boy/Girlfriend,Ex,Postal Charge Requisition,1,0
+358,Yes,M,North European - White,37,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+1858,No,M,North European - White,37,H,Partner/Spouse,Ex,Charge/further charge,0,0
+2491,No,M,North European - White,37,H,Partner/Spouse,Ex,Charge/further charge,0,0
+3185,No,F,North European - White,37,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+3257,No,M,North European - White,37,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+3863,No,M,North European - White,37,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4065,No,M,North European - White,37,M,Partner/Spouse,Ex,Charge/further charge,0,0
+4198,No,M,North European - White,37,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+4336,No,M,North European - White,37,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+4522,No,M,North European - White,37,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+5788,No,M,North European - White,37,M,Boy/Girlfriend,Ex,Adult caution,0,0
+6558,No,M,North European - White,37,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+8340,Yes,M,North European - White,37,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10041,No,M,North European - White,37,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11200,No,M,North European - White,37,M,Partner/Spouse,Ex,Charge/further charge,0,0
+11566,No,M,North European - White,37,H,Partner/Spouse,Ex,Charge/further charge,0,0
+11680,No,M,North European - White,37,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12638,No,M,North European - White,37,M,Boy/Girlfriend,Current,First time charged,0,0
+4677,No,F,North European - White,37,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+10590,No,M,North European - White,37,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+474,No,F,North European - White,37,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+1907,No,M,North European - White,37,S,Partner/Spouse,Current,Charge/further charge,0,0
+11733,No,M,North European - White,37,S,Partner/Spouse,Current,Charge/further charge,0,0
+12057,No,M,North European - White,37,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12057,No,M,North European - White,37,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12173,No,M,North European - White,37,S,Boy/Girlfriend,Ex,Third and subsequent time charged,0,0
+12363,No,F,North European - White,37,S,Boy/Girlfriend,Current,Second time charged,0,0
+4820,Yes,M,North European - White,37,S,Boy/Girlfriend,Current,Charge/further charge,2,2
+2474,No,F,North European - White,38,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+4136,No,M,North European - White,38,M,Partner/Spouse,Current,Adult caution,0,0
+5965,No,M,North European - White,38,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6864,No,M,North European - White,38,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+8312,Yes,M,North European - White,38,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8312,No,M,North European - White,38,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8836,Yes,M,North European - White,38,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+9213,No,M,North European - White,38,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+10145,No,M,North European - White,38,M,Partner/Spouse,Current,Adult caution,0,0
+11573,No,F,North European - White,38,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+2197,No,M,North European - White,38,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+2682,No,F,North European - White,38,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+11044,No,M,North European - White,38,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+1530,No,M,North European - White,38,M,Boy/Girlfriend,Current,Charge/further charge,1,1
+9777,No,M,North European - White,38,H,Boy/Girlfriend,Ex,Charge/further charge,1,1
+466,No,M,North European - White,38,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+2080,No,M,North European - White,38,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3662,No,M,North European - White,38,S,Partner/Spouse,Current,Charge/further charge,0,0
+5402,No,M,North European - White,38,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+8588,No,F,North European - White,38,S,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+12307,No,F,North European - White,38,S,Partner/Spouse,Ex,Charge/further charge,0,0
+12499,Yes,M,North European - White,38,S,Boy/Girlfriend,Current,First time charged,0,0
+12628,No,M,North European - White,38,S,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+3866,No,M,North European - White,39,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4137,Yes,M,North European - White,39,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+7044,No,F,North European - White,39,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+8524,No,F,North European - White,39,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11146,No,M,North European - White,39,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11146,No,M,North European - White,39,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11243,No,M,North European - White,39,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11243,No,M,North European - White,39,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11791,No,M,North European - White,39,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12058,No,F,North European - White,39,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12092,No,M,North European - White,39,H,Boy/Girlfriend,Current,First time charged,0,0
+12429,No,M,North European - White,39,H,Boy/Girlfriend,Ex,Third and subsequent time charged,0,0
+12558,No,M,North European - White,39,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12640,No,F,North European - White,39,M,Boy/Girlfriend,Current,First time charged,0,0
+159,No,M,North European - White,39,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+12210,No,M,North European - White,39,H,Boy/Girlfriend,Ex,Third and subsequent time charged,1,0
+1361,Yes,M,North European - White,39,H,Boy/Girlfriend,Ex,Charge/further charge,2,0
+2027,No,M,North European - White,39,H,Boy/Girlfriend,Current,Charge/further charge,1,1
+2934,No,M,North European - White,39,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+4254,No,F,North European - White,39,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6311,No,M,North European - White,39,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7060,No,M,North European - White,39,S,Partner/Spouse,Current,Charge/further charge,0,0
+7459,Yes,M,North European - White,39,S,Partner/Spouse,Current,Charge/further charge,0,0
+11400,No,M,North European - White,39,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12579,No,M,North European - White,39,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12657,No,M,North European - White,39,S,Partner/Spouse,Current,Charge/further charge,0,0
+395,No,M,North European - White,39,S,Boy/Girlfriend,Ex,Postal Charge Requisition,1,0
+5553,No,F,North European - White,39,S,Boy/Girlfriend,Ex,Charge/further charge,2,0
+228,No,M,North European - White,40,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+733,No,F,North European - White,40,M,Boy/Girlfriend,Current,Adult caution,0,0
+788,No,M,North European - White,40,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+869,No,M,North European - White,40,H,Partner/Spouse,Current,Charge/further charge,0,0
+2646,No,F,North European - White,40,M,Partner/Spouse,Current,Charge/further charge,0,0
+5485,No,M,North European - White,40,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+7361,No,M,North European - White,40,M,Partner/Spouse,Ex,Charge/further charge,0,0
+10003,No,F,North European - White,40,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+10571,No,M,North European - White,40,H,Partner/Spouse,Ex,Charge/further charge,0,0
+12313,No,F,North European - White,40,M,Boy/Girlfriend,Current,First time charged,0,0
+12568,No,F,North European - White,40,M,Partner/Spouse,Current,First time charged,0,0
+678,No,M,North European - White,40,M,Boy/Girlfriend,Ex,Charge/further charge,4,2
+474,No,F,North European - White,40,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+646,No,M,North European - White,40,S,Partner/Spouse,Ex,Charge/further charge,0,0
+1122,No,F,North European - White,40,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7473,No,M,North European - White,40,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+7509,No,F,North European - White,40,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+7875,No,M,North European - White,40,S,Partner/Spouse,Current,Charge/further charge,0,0
+7950,No,M,North European - White,40,S,Boy/Girlfriend,Current,Adult caution,0,0
+8267,No,F,North European - White,40,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+8591,No,F,North European - White,40,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9009,No,M,North European - White,40,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9523,No,M,North European - White,40,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9711,No,M,North European - White,40,S,Partner/Spouse,Current,Charge/further charge,0,0
+9711,No,M,North European - White,40,S,Partner/Spouse,Current,Charge/further charge,0,0
+11134,No,M,North European - White,40,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11393,No,M,North European - White,40,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11832,Yes,F,North European - White,40,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11866,No,M,North European - White,40,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12125,No,M,North European - White,40,S,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+12308,No,F,North European - White,40,S,Partner/Spouse,Current,Charge/further charge,0,0
+1979,No,M,North European - White,41,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+4710,No,M,North European - White,41,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+5051,Yes,F,North European - White,41,M,Partner/Spouse,Current,Charge/further charge,0,0
+5893,No,M,North European - White,41,M,Partner/Spouse,Current,Charge/further charge,0,0
+6921,No,M,North European - White,41,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9768,No,M,North European - White,41,M,Partner/Spouse,Current,Charge/further charge,0,0
+10968,No,F,North European - White,41,H,Partner/Spouse,Current,Charge/further charge,0,0
+11814,No,M,North European - White,41,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11930,No,F,North European - White,41,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12148,No,M,North European - White,41,H,Boy/Girlfriend,Current,First time charged,0,0
+12249,No,M,North European - White,41,H,Partner/Spouse,Current,Charge/further charge,0,0
+12292,No,F,North European - White,41,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12332,No,M,North European - White,41,H,Partner/Spouse,Current,Second time charged,0,0
+12581,No,F,North European - White,41,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+2411,No,F,North European - White,41,S,Boy/Girlfriend,Current,First time charged,0,0
+4202,Yes,M,North European - White,41,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+4272,No,M,North European - White,41,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6393,No,F,North European - White,41,S,Partner/Spouse,Current,Adult caution,0,0
+7636,No,F,North European - White,41,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9681,No,M,North European - White,41,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11837,No,F,North European - White,41,S,Partner/Spouse,Current,Charge/further charge,0,0
+12530,No,M,North European - White,41,S,Boy/Girlfriend,Ex,First time charged,0,0
+10886,No,F,North European - White,41,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+11974,No,M,North European - White,41,S,Boy/Girlfriend,Current,Charge/further charge,2,0
+641,No,M,North European - White,42,M,Partner/Spouse,Current,Charge/further charge,0,0
+864,No,F,North European - White,42,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+3915,No,M,North European - White,42,H,Partner/Spouse,Ex,Charge/further charge,0,0
+7456,No,M,North European - White,42,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11488,No,M,North European - White,42,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11488,No,M,North European - White,42,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11555,No,M,North European - White,42,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12135,No,M,North European - White,42,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+13,No,M,North European - White,42,S,Partner/Spouse,Current,Charge/further charge,0,0
+1196,No,F,North European - White,42,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+1710,No,M,North European - White,42,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+1710,No,M,North European - White,42,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4032,No,M,North European - White,42,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4302,No,M,North European - White,42,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5583,No,F,North European - White,42,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6372,No,F,North European - White,42,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6961,No,M,North European - White,42,S,Partner/Spouse,Current,Charge/further charge,0,0
+8588,No,F,North European - White,42,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9022,No,M,North European - White,42,S,Boy/Girlfriend,Current,Adult caution,0,0
+10305,No,M,North European - White,42,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10365,No,F,North European - White,42,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11256,No,M,North European - White,42,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+1842,No,F,North European - White,42,Unknown,Boy/Girlfriend,Current,Charge/further charge,1,0
+5425,No,F,North European - White,42,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+2538,No,M,North European - White,43,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+2538,No,M,North European - White,43,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3169,No,M,North European - White,43,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+4039,No,F,North European - White,43,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+7962,No,M,North European - White,43,M,Partner/Spouse,Current,Charge/further charge,0,0
+8489,Yes,M,North European - White,43,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10543,No,M,North European - White,43,M,Partner/Spouse,Current,Charge/further charge,0,0
+10828,No,M,North European - White,43,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11305,No,M,North European - White,43,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11929,No,M,North European - White,43,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12342,No,M,North European - White,43,M,Partner/Spouse,Current,First time charged,0,0
+12443,No,F,North European - White,43,M,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+1111,No,F,North European - White,43,M,Partner/Spouse,Current,Charge/further charge,1,0
+1326,No,M,North European - White,43,M,Partner/Spouse,Current,Charge/further charge,1,0
+2076,Yes,M,North European - White,43,H,Partner/Spouse,Current,Charge/further charge,1,0
+1001,No,M,North European - White,43,M,Boy/Girlfriend,Ex,Charge/further charge,1,1
+392,No,M,North European - White,43,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+863,No,F,North European - White,43,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+2103,No,M,North European - White,43,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+2653,No,M,North European - White,43,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6270,No,M,North European - White,43,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6270,No,M,North European - White,43,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6674,No,F,North European - White,43,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12162,No,M,North European - White,43,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12345,No,M,North European - White,43,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+3569,No,F,North European - White,43,S,Partner/Spouse,Current,Charge/further charge,1,0
+6231,No,M,North European - White,43,S,Boy/Girlfriend,Ex,Charge/further charge,1,1
+64,No,M,North European - White,44,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+4139,No,M,North European - White,44,H,Partner/Spouse,Current,Charge/further charge,0,0
+6120,No,F,North European - White,44,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+8764,No,M,North European - White,44,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11796,No,F,North European - White,44,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11849,No,M,North European - White,44,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12276,No,F,North European - White,44,H,Boy/Girlfriend,Current,First time charged,0,0
+12612,No,M,North European - White,44,M,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+1533,No,M,North European - White,44,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+7000,No,M,North European - White,44,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+1914,No,F,North European - White,44,S,Partner/Spouse,Current,Charge/further charge,0,0
+4320,No,M,North European - White,44,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+8448,No,F,North European - White,44,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9990,No,F,North European - White,44,S,Partner/Spouse,Current,Charge/further charge,0,0
+10793,No,F,North European - White,44,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11159,No,F,North European - White,44,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11224,No,M,North European - White,44,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11659,No,F,North European - White,44,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12186,No,M,North European - White,44,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12606,No,M,North European - White,44,S,Boy/Girlfriend,Current,First time charged,0,0
+3956,No,F,North European - White,44,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+6308,No,F,North European - White,44,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+362,No,M,North European - White,45,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+1715,No,M,North European - White,45,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+2462,No,M,North European - White,45,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+5142,No,M,North European - White,45,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+10567,No,M,North European - White,45,H,Partner/Spouse,Current,Charge/further charge,0,0
+11793,No,M,North European - White,45,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12040,No,M,North European - White,45,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12309,No,M,North European - White,45,M,Partner/Spouse,Current,Charge/further charge,0,0
+12325,No,M,North European - White,45,H,Partner/Spouse,Current,Charge/further charge,0,0
+12398,No,M,North European - White,45,H,Partner/Spouse,Current,Second time charged,0,0
+11340,No,M,North European - White,45,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+2419,No,F,North European - White,45,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+2443,No,M,North European - White,45,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7230,No,M,North European - White,45,S,Partner/Spouse,Ex,Charge/further charge,0,0
+7985,No,M,North European - White,45,S,Partner/Spouse,Current,Charge/further charge,0,0
+10546,No,M,North European - White,45,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10779,No,M,North European - White,45,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11183,Yes,F,North European - White,45,S,Partner/Spouse,Current,Charge/further charge,0,0
+11344,No,M,North European - White,45,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11354,No,M,North European - White,45,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11671,Yes,M,North European - White,45,S,Partner/Spouse,Current,Charge/further charge,0,0
+12618,No,F,North European - White,45,S,Boy/Girlfriend,Current,First time charged,0,0
+10412,No,M,North European - White,45,S,Partner/Spouse,Current,Charge/further charge,1,1
+10758,No,M,North European - White,45,S,Boy/Girlfriend,Current,Charge/further charge,1,1
+11441,No,F,North European - White,45,S,Boy/Girlfriend,Current,Charge/further charge,1,1
+3339,No,M,North European - White,46,H,Partner/Spouse,Ex,Charge/further charge,0,0
+7119,No,M,North European - White,46,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+7355,No,M,North European - White,46,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+8691,No,F,North European - White,46,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+9645,No,F,North European - White,46,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+9658,No,F,North European - White,46,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11320,No,F,North European - White,46,M,Partner/Spouse,Current,Charge/further charge,0,0
+11625,No,M,North European - White,46,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12011,No,M,North European - White,46,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12274,No,M,North European - White,46,M,Partner/Spouse,Current,Charge/further charge,0,0
+12327,No,M,North European - White,46,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12542,No,M,North European - White,46,H,Partner/Spouse,Current,First time charged,0,0
+6789,No,M,North European - White,46,M,Boy/Girlfriend,Current,Third and subsequent time charged,2,0
+521,No,F,North European - White,46,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+2514,No,F,North European - White,46,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5073,No,M,North European - White,46,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9658,No,F,North European - White,46,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10940,No,M,North European - White,46,S,Partner/Spouse,Current,Adult caution,0,0
+11498,No,F,North European - White,46,S,Partner/Spouse,Current,Charge/further charge,0,0
+11598,No,M,North European - White,46,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12031,No,M,North European - White,46,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12270,No,M,North European - White,46,S,Partner/Spouse,Current,First time charged,0,0
+12649,Yes,M,North European - White,46,S,Boy/Girlfriend,Current,First time charged,0,0
+4232,No,M,North European - White,46,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+6996,No,F,North European - White,46,S,Boy/Girlfriend,Current,Charge/further charge,2,0
+6996,No,F,North European - White,46,S,Partner/Spouse,Current,Charge/further charge,2,0
+39,No,M,North European - White,47,M,Partner/Spouse,Current,Charge/further charge,0,0
+2908,No,F,North European - White,47,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+3179,No,F,North European - White,47,M,Partner/Spouse,Current,Charge/further charge,0,0
+4589,No,M,North European - White,47,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+6338,No,F,North European - White,47,M,Partner/Spouse,Current,Charge/further charge,0,0
+7730,No,M,North European - White,47,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9838,No,F,North European - White,47,M,Partner/Spouse,Current,Charge/further charge,0,0
+10269,No,M,North European - White,47,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+10269,No,M,North European - White,47,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11358,No,F,North European - White,47,M,Boy/Girlfriend,Ex,Summons,0,0
+11526,No,M,North European - White,47,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+7116,No,M,North European - White,47,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+3613,No,M,North European - White,47,M,Boy/Girlfriend,Ex,Charge/further charge,2,2
+2994,No,F,North European - White,47,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4804,No,M,North European - White,47,S,Partner/Spouse,Current,Charge/further charge,0,0
+7210,No,M,North European - White,47,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7210,No,M,North European - White,47,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+8271,No,F,North European - White,47,S,Partner/Spouse,Current,Charge/further charge,0,0
+8356,No,F,North European - White,47,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10139,No,F,North European - White,47,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10383,No,M,North European - White,47,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10473,No,F,North European - White,47,S,Partner/Spouse,Current,Charge/further charge,0,0
+11596,No,M,North European - White,47,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11827,No,F,North European - White,47,S,Partner/Spouse,Current,Charge/further charge,0,0
+11941,No,M,North European - White,47,S,Partner/Spouse,Current,Charge/further charge,0,0
+12344,No,F,North European - White,47,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11483,No,F,North European - White,47,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+479,No,F,North European - White,48,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+790,No,M,North European - White,48,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+4020,No,M,North European - White,48,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+6600,No,M,North European - White,48,M,Boy/Girlfriend,Current,Adult caution,0,0
+9385,No,M,North European - White,48,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11784,No,F,North European - White,48,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12322,No,M,North European - White,48,H,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+42,No,M,North European - White,48,M,Boy/Girlfriend,Ex,Charge/further charge,3,0
+88,No,M,North European - White,48,M,Boy/Girlfriend,Current,Charge/further charge,1,1
+5025,No,M,North European - White,48,M,Boy/Girlfriend,Ex,Charge/further charge,1,1
+1510,No,M,North European - White,48,S,Partner/Spouse,Current,Charge/further charge,0,0
+3868,No,F,North European - White,48,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+4205,No,M,North European - White,48,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5172,No,F,North European - White,48,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7386,No,M,North European - White,48,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10723,No,M,North European - White,48,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11029,No,F,North European - White,48,S,Partner/Spouse,Current,Charge/further charge,0,0
+11129,No,F,North European - White,48,S,Partner/Spouse,Current,Charge/further charge,0,0
+11474,No,F,North European - White,48,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11582,No,M,North European - White,48,S,Partner/Spouse,Current,Charge/further charge,0,0
+11752,Yes,M,North European - White,48,S,Partner/Spouse,Current,Charge/further charge,0,0
+11773,No,M,North European - White,48,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11856,No,M,North European - White,48,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11999,Yes,M,North European - White,48,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9985,No,M,North European - White,48,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+11931,No,M,North European - White,48,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+3274,Yes,M,North European - White,49,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4079,No,M,North European - White,49,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4303,No,M,North European - White,49,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4346,No,M,North European - White,49,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+4730,No,M,North European - White,49,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11156,No,M,North European - White,49,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12045,No,M,North European - White,49,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8066,No,M,North European - White,49,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+1158,No,F,North European - White,49,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3976,No,M,North European - White,49,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+4793,No,F,North European - White,49,S,Partner/Spouse,Current,Charge/further charge,0,0
+5452,No,M,North European - White,49,Unknown,Partner/Spouse,Current,Charge/further charge,0,0
+5452,No,M,North European - White,49,Unknown,Partner/Spouse,Current,Charge/further charge,0,0
+8341,No,M,North European - White,49,S,Partner/Spouse,Current,Charge/further charge,0,0
+8678,No,F,North European - White,49,S,Partner/Spouse,Current,Adult caution,0,0
+10556,No,F,North European - White,49,S,Partner/Spouse,Current,Charge/further charge,0,0
+1108,No,M,North European - White,49,S,Boy/Girlfriend,Current,Charge/further charge,4,2
+596,No,M,North European - White,50,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+2794,No,M,North European - White,50,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+3193,No,F,North European - White,50,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+3313,Yes,M,North European - White,50,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11362,No,M,North European - White,50,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11369,No,F,North European - White,50,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11574,No,M,North European - White,50,M,Partner/Spouse,Current,Charge/further charge,0,0
+12099,No,F,North European - White,50,H,Boy/Girlfriend,Ex,First time charged,0,0
+1391,No,F,North European - White,50,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+3198,No,F,North European - White,50,H,Boy/Girlfriend,Current,Charge/further charge,2,1
+4483,No,M,North European - White,50,M,Boy/Girlfriend,Ex,Charge/further charge,4,3
+4706,No,M,North European - White,50,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+4905,No,M,North European - White,50,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7026,No,F,North European - White,50,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7542,No,M,North European - White,50,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7606,No,M,North European - White,50,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7680,No,M,North European - White,50,S,Partner/Spouse,Current,Charge/further charge,0,0
+7907,No,F,North European - White,50,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11216,No,F,North European - White,50,S,Partner/Spouse,Current,Charge/further charge,0,0
+11934,No,M,North European - White,50,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6206,Yes,M,North European - White,50,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+2729,No,M,North European - White,51,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+3193,No,F,North European - White,51,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4905,No,M,North European - White,51,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+9431,No,M,North European - White,51,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11644,No,M,North European - White,51,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12171,No,M,North European - White,51,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12663,No,M,North European - White,51,M,Boy/Girlfriend,Ex,Third and subsequent time charged,0,0
+784,No,M,North European - White,51,H,Boy/Girlfriend,Ex,Charge/further charge,2,1
+5304,No,M,North European - White,51,S,Partner/Spouse,Current,Charge/further charge,0,0
+7293,No,M,North European - White,51,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9967,No,F,North European - White,51,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10205,No,M,North European - White,51,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10619,No,F,North European - White,51,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11227,Yes,M,North European - White,51,S,Partner/Spouse,Current,Charge/further charge,0,0
+12134,No,M,North European - White,51,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12641,Yes,M,North European - White,51,S,Partner/Spouse,Current,First time charged,0,0
+6321,No,M,North European - White,51,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+4364,No,M,North European - White,52,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+5348,No,F,North European - White,52,M,Partner/Spouse,Current,Charge/further charge,0,0
+11445,No,M,North European - White,52,M,Partner/Spouse,Ex,Charge/further charge,0,0
+12191,No,F,North European - White,52,M,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+12458,No,M,North European - White,52,M,Partner/Spouse,Current,First time charged,0,0
+4533,No,M,North European - White,52,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5919,No,F,North European - White,52,S,Partner/Spouse,Current,Charge/further charge,0,0
+11502,No,M,North European - White,52,S,Partner/Spouse,Current,Charge/further charge,0,0
+12396,No,F,North European - White,52,S,Partner/Spouse,Current,Second time charged,0,0
+12514,No,M,North European - White,52,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+538,No,M,North European - White,52,S,Boy/Girlfriend,Current,Charge/further charge,1,1
+6761,No,M,North European - White,53,M,Partner/Spouse,Current,Charge/further charge,0,0
+11973,No,F,North European - White,53,M,Partner/Spouse,Current,Charge/further charge,0,0
+696,No,F,North European - White,53,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+178,No,M,North European - White,53,M,Boy/Girlfriend,Current,Charge/further charge,2,0
+486,No,M,North European - White,53,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+774,Yes,M,North European - White,54,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+7339,No,M,North European - White,54,H,Partner/Spouse,Ex,Charge/further charge,0,0
+7415,No,M,North European - White,54,M,Partner/Spouse,Current,Charge/further charge,0,0
+9554,No,M,North European - White,54,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+1006,No,M,North European - White,54,M,Boy/Girlfriend,Ex,Charge/further charge,2,0
+508,Yes,M,North European - White,54,Unknown,Boy/Girlfriend,Current,Charge/further charge,0,0
+5996,No,M,North European - White,54,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9340,No,M,North European - White,54,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11431,No,M,North European - White,54,S,Partner/Spouse,Current,Charge/further charge,0,0
+4286,No,F,North European - White,54,S,Partner/Spouse,Current,Charge/further charge,1,0
+6791,No,M,North European - White,54,S,Boy/Girlfriend,Ex,Charge/further charge,2,0
+5727,No,M,North European - White,55,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6911,No,F,North European - White,55,M,Partner/Spouse,Current,Charge/further charge,0,0
+8095,No,M,North European - White,55,M,Boy/Girlfriend,Ex,Adult caution,0,0
+9615,Yes,M,North European - White,55,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+7924,No,M,North European - White,55,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10099,No,M,North European - White,55,S,Partner/Spouse,Current,Charge/further charge,0,0
+4126,No,M,North European - White,56,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+2237,No,M,North European - White,56,S,Partner/Spouse,Current,Charge/further charge,0,0
+2927,No,M,North European - White,57,M,Partner/Spouse,Current,Charge/further charge,0,0
+8535,No,M,North European - White,57,H,Partner/Spouse,Current,Charge/further charge,0,0
+10272,Yes,M,North European - White,57,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10967,No,M,North European - White,57,S,Partner/Spouse,Current,Charge/further charge,0,0
+11220,Yes,M,North European - White,57,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11785,No,F,North European - White,57,S,Partner/Spouse,Current,Charge/further charge,0,0
+12208,No,M,North European - White,57,S,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+895,No,M,North European - White,58,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12069,Yes,M,North European - White,58,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10285,No,M,North European - White,59,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12524,No,M,North European - White,59,S,Boy/Girlfriend,Ex,Second time charged,0,0
+4641,No,F,North European - White,60,M,Partner/Spouse,Current,Charge/further charge,0,0
+8991,Yes,M,North European - White,60,H,Partner/Spouse,Ex,Charge/further charge,0,0
+11341,No,F,North European - White,60,M,Partner/Spouse,Current,Charge/further charge,0,0
+948,No,F,North European - White,61,M,Partner/Spouse,Ex,Charge/further charge,0,0
+6032,No,F,North European - White,61,M,Partner/Spouse,Current,Charge/further charge,0,0
+408,No,M,North European - White,61,S,Partner/Spouse,Current,Charge/further charge,0,0
+4539,No,M,North European - White,62,H,Partner/Spouse,Current,Charge/further charge,0,0
+1374,Yes,M,North European - White,62,H,Boy/Girlfriend,Current,Charge/further charge,1,1
+5904,No,F,North European - White,62,S,Partner/Spouse,Current,Charge/further charge,0,0
+7713,No,F,North European - White,62,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10245,No,M,North European - White,62,S,Partner/Spouse,Ex,Charge/further charge,0,0
+11652,No,F,North European - White,63,H,Partner/Spouse,Current,Charge/further charge,0,0
+1977,No,M,North European - White,63,S,Partner/Spouse,Ex,Postal Charge Requisition,0,0
+4808,No,F,North European - White,63,S,Boy/Girlfriend,Current,Adult caution,0,0
+6320,No,M,North European - White,63,S,Partner/Spouse,Current,Charge/further charge,0,0
+6542,Yes,M,North European - White,63,S,Partner/Spouse,Current,Charge/further charge,0,0
+10678,No,F,North European - White,63,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10755,No,F,North European - White,63,S,Partner/Spouse,Ex,Charge/further charge,0,0
+11148,No,M,North European - White,63,S,Partner/Spouse,Current,Charge/further charge,0,0
+11148,No,M,North European - White,63,S,Partner/Spouse,Current,Charge/further charge,0,0
+5471,Yes,M,North European - White,64,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9585,No,M,North European - White,64,S,Partner/Spouse,Current,Adult caution,0,0
+9529,No,M,North European - White,65,M,Partner/Spouse,Ex,Charge/further charge,0,0
+11861,No,F,North European - White,65,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+7235,Yes,M,North European - White,65,S,Partner/Spouse,Current,Charge/further charge,0,0
+11484,Yes,M,North European - White,65,S,Partner/Spouse,Current,Charge/further charge,0,0
+5559,No,M,North European - White,66,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+2201,Yes,M,North European - White,68,H,Partner/Spouse,Current,Charge/further charge,0,0
+11449,Yes,F,North European - White,68,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12018,Yes,F,North European - White,70,H,Partner/Spouse,Current,Charge/further charge,0,0
+4666,Yes,M,North European - White,71,H,Partner/Spouse,Current,Charge/further charge,0,0
+6158,No,M,North European - White,72,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9560,No,F,North European - White,72,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+1779,Yes,M,North European - White,73,H,Partner/Spouse,Current,Charge/further charge,0,0
+12337,No,F,North European - White,73,H,Partner/Spouse,Current,First time charged,0,0
+166,No,M,North European - White,73,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+29,No,M,North European - White,76,H,Partner/Spouse,Current,Charge/further charge,0,0
+12300,Yes,M,North European - White,82,H,Partner/Spouse,Current,Charge/further charge,0,0
+12143,Yes,M,North European - White,83,S,Partner/Spouse,Current,Charge/further charge,0,0
+11845,No,F,North European - White,17,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+1665,No,M,North European - White,20,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+1020,No,M,North European - White,22,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+2556,No,M,North European - White,23,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11241,No,M,North European - White,23,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9086,No,M,North European - White,23,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+11694,No,M,North European - White,24,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+9210,Yes,M,North European - White,24,S,Partner/Spouse,Current,Charge/further charge,0,0
+7884,No,M,North European - White,25,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11158,No,M,North European - White,25,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+1297,No,M,North European - White,26,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+7489,No,F,North European - White,26,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+7489,No,F,North European - White,26,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+10006,No,M,North European - White,26,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10006,No,M,North European - White,26,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9097,No,M,North European - White,27,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+10909,Yes,M,North European - White,27,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+11627,No,M,North European - White,28,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12397,No,M,North European - White,28,S,Partner/Spouse,Current,First time charged,0,0
+8861,No,M,North European - White,32,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+10060,No,F,North European - White,32,M,Partner/Spouse,Current,Charge/further charge,0,0
+12266,No,M,North European - White,32,H,Boy/Girlfriend,Current,First time charged,0,0
+7881,No,F,North European - White,32,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10717,No,M,North European - White,32,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12573,No,F,North European - White,32,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4561,No,F,North European - White,34,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+8824,No,F,North European - White,35,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+296,No,M,North European - White,35,H,Boy/Girlfriend,Current,Charge/further charge,1,1
+1203,No,M,North European - White,36,S,Partner/Spouse,Current,Charge/further charge,0,0
+11324,No,M,North European - White,36,S,Boy/Girlfriend,Current,Charge/further charge,2,0
+5014,Yes,F,North European - White,37,S,Partner/Spouse,Current,Charge/further charge,0,0
+7746,No,M,North European - White,38,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+8974,No,M,North European - White,38,M,Partner/Spouse,Current,Charge/further charge,0,0
+8939,No,M,North European - White,39,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12647,No,M,North European - White,40,S,Partner/Spouse,Ex,Charge/further charge,0,0
+12137,Yes,M,North European - White,42,S,Partner/Spouse,Ex,First time charged,0,0
+12137,Yes,M,North European - White,42,S,Partner/Spouse,Ex,First time charged,0,0
+11160,No,M,North European - White,43,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+10085,No,M,North European - White,43,S,Partner/Spouse,Current,Charge/further charge,0,0
+639,No,M,North European - White,44,M,Partner/Spouse,Current,Charge/further charge,0,0
+12510,No,M,North European - White,45,H,Partner/Spouse,Current,Third and subsequent time charged,0,0
+3375,Yes,M,North European - White,45,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+7574,No,M,North European - White,45,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11670,No,M,North European - White,45,S,Partner/Spouse,Current,Charge/further charge,0,0
+3055,No,M,North European - White,46,S,Partner/Spouse,Current,Charge/further charge,2,1
+637,No,M,North European - White,48,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9371,No,M,North European - White,48,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+8089,No,M,North European - White,49,H,Partner/Spouse,Current,Charge/further charge,0,0
+7208,No,M,North European - White,53,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12522,No,M,North European - White,17,Unknown,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6706,Yes,F,North European - White,22,Unknown,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12001,No,M,North European - White,23,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12152,No,M,North European - White,24,M,Partner/Spouse,Current,Second time charged,0,0
+2549,No,M,North European - White,26,M,Partner/Spouse,Current,Charge/further charge,0,0
+10707,No,M,North European - White,26,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+575,No,M,North European - White,28,M,Partner/Spouse,Current,Charge/further charge,1,0
+10707,No,M,North European - White,29,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+3685,No,M,North European - White,32,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+10230,No,F,North European - White,33,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12423,No,M,North European - White,34,H,Boy/Girlfriend,Ex,First time charged,0,0
+3167,No,M,North European - White,49,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12433,No,M,North European - White,51,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+340,No,M,North European - White,55,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+12338,No,M,North European - White,35,H,Boy/Girlfriend,Current,First time charged,0,0
+12338,No,M,North European - White,35,H,Boy/Girlfriend,Current,First time charged,0,0
+4266,No,M,North European - White,43,H,Partner/Spouse,Current,Charge/further charge,2,0
+11826,No,M,North European - White,44,M,Partner/Spouse,Current,Charge/further charge,0,0
+12456,Yes,M,North European - White,51,S,Partner/Spouse,Current,Charge/further charge,0,0
+12424,Yes,F,North European - White,19,H,Boy/Girlfriend,Current,Second time charged,0,0
+2396,No,M,North European - White,23,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+689,No,F,South European - White,20,M,Partner/Spouse,Current,Charge/further charge,6,3
+689,No,F,South European - White,20,S,Boy/Girlfriend,Ex,Charge/further charge,6,3
+689,No,F,South European - White,24,H,Boy/Girlfriend,Current,Charge/further charge,6,3
+6647,No,M,South European - White,17,M,Boy/Girlfriend,Current,Charge/further charge,2,0
+8647,No,M,South European - White,19,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+876,No,M,South European - White,19,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+11817,No,M,South European - White,20,H,Boy/Girlfriend,Ex,Charge/further charge,1,0
+6239,No,F,South European - White,20,S,Boy/Girlfriend,Current,Adult caution,0,0
+12075,No,M,South European - White,21,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+2609,No,M,South European - White,22,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4845,No,M,South European - White,22,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+7800,No,F,South European - White,22,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+4607,No,F,South European - White,24,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12634,No,M,South European - White,26,M,Boy/Girlfriend,Current,First time charged,0,0
+11537,No,F,South European - White,26,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11910,No,F,South European - White,27,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+4052,No,M,South European - White,27,H,Boy/Girlfriend,Current,Charge/further charge,1,0
+12544,No,M,South European - White,28,M,Boy/Girlfriend,Ex,Adult caution,0,0
+4279,No,M,South European - White,29,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+9637,No,M,South European - White,29,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+8357,No,M,South European - White,29,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+8509,No,F,South European - White,29,S,Boy/Girlfriend,Current,Adult caution,1,0
+11023,No,M,South European - White,30,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+4879,No,M,South European - White,31,H,Boy/Girlfriend,Current,Adult caution,0,0
+11585,Yes,M,South European - White,31,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+5542,No,M,South European - White,31,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6635,No,F,South European - White,31,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6697,No,M,South European - White,31,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3838,No,F,South European - White,32,Unknown,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3697,No,M,South European - White,33,M,Boy/Girlfriend,Current,Charge/further charge,2,0
+3697,No,M,South European - White,33,M,Boy/Girlfriend,Current,Charge/further charge,2,0
+5626,No,M,South European - White,34,M,Partner/Spouse,Current,Charge/further charge,0,0
+10404,No,M,South European - White,34,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11226,No,M,South European - White,35,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+10735,No,M,South European - White,35,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+387,No,M,South European - White,35,S,Boy/Girlfriend,Ex,Charge/further charge,1,1
+2098,No,F,South European - White,36,M,Boy/Girlfriend,Ex,Postal Charge Requisition,0,0
+11971,No,F,South European - White,36,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+8310,No,M,South European - White,37,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5281,No,F,South European - White,37,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+1857,No,F,South European - White,38,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11803,No,M,South European - White,38,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5158,No,M,South European - White,39,H,Partner/Spouse,Current,Charge/further charge,0,0
+6786,No,F,South European - White,40,M,Partner/Spouse,Current,Charge/further charge,0,0
+11456,No,M,South European - White,40,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11456,No,M,South European - White,40,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12017,No,F,South European - White,40,S,Partner/Spouse,Current,Adult caution,0,0
+12078,No,M,South European - White,40,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+1035,No,M,South European - White,42,M,Boy/Girlfriend,Ex,Adult caution,0,0
+12121,No,M,South European - White,42,H,Boy/Girlfriend,Current,First time charged,0,0
+12643,No,F,South European - White,42,H,Partner/Spouse,Current,First time charged,0,0
+3108,No,M,South European - White,42,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6207,No,F,South European - White,42,S,Partner/Spouse,Current,Charge/further charge,0,0
+11609,No,F,South European - White,43,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+2314,No,M,South European - White,44,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+3293,No,M,South European - White,44,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+671,No,M,South European - White,46,M,Partner/Spouse,Current,Charge/further charge,0,0
+6363,Yes,M,South European - White,47,S,Partner/Spouse,Current,Charge/further charge,0,0
+1485,No,M,South European - White,47,S,Boy/Girlfriend,Current,Postal Charge Requisition,1,0
+10548,No,M,South European - White,50,S,Boy/Girlfriend,Current,Charge/further charge,1,1
+898,No,M,South European - White,51,M,Boy/Girlfriend,Ex,Postal Charge Requisition,0,0
+10449,No,M,South European - White,51,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+4195,No,M,South European - White,55,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+1778,No,M,South European - White,55,S,Boy/Girlfriend,Current,Postal Charge Requisition,0,0
+8284,No,F,South European - White,57,S,Partner/Spouse,Current,Charge/further charge,0,0
+11265,No,F,South European - White,63,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9750,No,F,South European - White,17,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9750,No,F,South European - White,17,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12331,No,M,South European - White,17,Unknown,Boy/Girlfriend,Ex,Charge/further charge,1,0
+1836,No,F,South European - White,21,M,Partner/Spouse,Current,Charge/further charge,0,0
+11281,No,M,South European - White,21,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5895,No,M,South European - White,23,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6142,No,M,South European - White,23,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6905,No,M,South European - White,23,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5714,Yes,M,South European - White,23,S,Partner/Spouse,Current,Charge/further charge,0,0
+8306,No,M,South European - White,23,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10116,Yes,M,South European - White,23,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10850,No,F,South European - White,24,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+11137,Yes,M,South European - White,25,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12650,No,M,South European - White,26,S,Partner/Spouse,Current,Charge/further charge,0,0
+5785,No,F,South European - White,27,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6669,No,F,South European - White,27,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6783,No,M,South European - White,27,S,Partner/Spouse,Current,Charge/further charge,0,0
+11355,No,F,South European - White,27,S,Partner/Spouse,Current,Charge/further charge,0,0
+11864,No,M,South European - White,28,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12623,No,M,South European - White,28,M,Boy/Girlfriend,Ex,Charge/further charge,1,0
+3482,No,F,South European - White,29,M,Boy/Girlfriend,Current,Adult caution,0,0
+9763,No,M,South European - White,29,H,Partner/Spouse,Current,Charge/further charge,0,0
+7769,No,F,South European - White,29,S,Boy/Girlfriend,Current,Adult caution,0,0
+9316,No,F,South European - White,30,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9799,No,M,South European - White,31,M,Partner/Spouse,Ex,Charge/further charge,0,0
+9699,No,F,South European - White,31,S,Partner/Spouse,Current,Charge/further charge,0,0
+12084,Yes,M,South European - White,31,S,Boy/Girlfriend,Current,First time charged,0,0
+9561,No,F,South European - White,32,M,Partner/Spouse,Current,Charge/further charge,0,0
+693,Yes,M,South European - White,32,H,Boy/Girlfriend,Current,Charge/further charge,2,0
+2921,No,M,South European - White,32,S,Boy/Girlfriend,Current,Charge/further charge,1,1
+2833,No,M,South European - White,33,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6781,Yes,M,South European - White,33,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6781,Yes,M,South European - White,33,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6987,No,M,South European - White,33,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+11661,No,M,South European - White,33,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+8726,No,F,South European - White,33,S,Boy/Girlfriend,Ex,Charge/further charge,1,1
+9956,No,F,South European - White,34,M,Partner/Spouse,Current,Charge/further charge,0,0
+11495,Yes,M,South European - White,34,H,Partner/Spouse,Current,Charge/further charge,0,0
+3355,No,M,South European - White,34,S,Partner/Spouse,Current,Charge/further charge,0,0
+3355,No,M,South European - White,34,S,Partner/Spouse,Current,Charge/further charge,0,0
+5703,No,M,South European - White,34,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+8721,No,M,South European - White,34,S,Boy/Girlfriend,Current,Adult caution,0,0
+749,No,M,South European - White,35,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+6862,No,M,South European - White,35,S,Partner/Spouse,Current,Charge/further charge,0,0
+12263,No,M,South European - White,35,S,Boy/Girlfriend,Ex,Second time charged,1,1
+9305,No,M,South European - White,36,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9004,No,F,South European - White,37,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+693,No,M,South European - White,37,S,Boy/Girlfriend,Current,Charge/further charge,2,0
+11992,No,M,South European - White,38,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12511,No,M,South European - White,38,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11541,No,F,South European - White,39,M,Partner/Spouse,Current,Charge/further charge,0,0
+12445,No,M,South European - White,39,S,Partner/Spouse,Current,Charge/further charge,0,0
+3862,No,F,South European - White,40,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+5159,No,M,South European - White,40,S,Partner/Spouse,Current,Charge/further charge,0,0
+11312,No,F,South European - White,40,S,Partner/Spouse,Current,Charge/further charge,0,0
+11710,Yes,F,South European - White,42,S,Boy/Girlfriend,Ex,Charge/further charge,3,1
+4617,No,F,South European - White,43,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+7084,Yes,M,South European - White,43,H,Partner/Spouse,Current,Charge/further charge,0,0
+9971,Yes,M,South European - White,43,H,Partner/Spouse,Current,Charge/further charge,0,0
+6178,Yes,M,South European - White,45,H,Partner/Spouse,Current,Charge/further charge,0,0
+6178,No,M,South European - White,45,H,Partner/Spouse,Current,Charge/further charge,0,0
+2342,No,M,South European - White,45,M,Partner/Spouse,Current,Charge/further charge,1,0
+4579,No,F,South European - White,45,M,Partner/Spouse,Current,Charge/further charge,1,1
+1435,Yes,M,South European - White,45,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10689,No,F,South European - White,45,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10336,No,M,South European - White,46,S,Partner/Spouse,Current,Charge/further charge,0,0
+6098,No,M,South European - White,47,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+8730,No,M,South European - White,47,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+2610,Yes,M,South European - White,48,M,Partner/Spouse,Ex,Charge/further charge,0,0
+6883,Yes,M,South European - White,49,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+11802,No,M,South European - White,50,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5947,No,F,South European - White,51,S,Boy/Girlfriend,Current,Adult caution,0,0
+11479,Yes,M,South European - White,52,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+8451,No,M,South European - White,54,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+3574,No,M,South European - White,58,M,Partner/Spouse,Current,Charge/further charge,0,0
+11304,No,M,South European - White,58,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7667,No,M,South European - White,21,M,Boy/Girlfriend,Ex,First time charged,0,0
+4889,No,M,South European - White,26,M,Boy/Girlfriend,Ex,Charge/further charge,2,1
+2987,No,M,South European - White,28,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12502,No,M,South European - White,35,H,Partner/Spouse,Ex,First time charged,0,0
+11706,Yes,M,South European - White,40,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12430,No,M,South European - White,49,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+7133,Yes,M,South European - White,20,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8069,No,M,South European - White,21,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+10356,Yes,M,South European - White,22,S,Partner/Spouse,Current,Charge/further charge,0,0
+12311,No,M,South European - White,28,S,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+443,No,F,South European - White,40,S,Partner/Spouse,Current,Charge/further charge,0,0
+9416,No,M,South European - White,19,S,Boy/Girlfriend,Current,Charge/further charge,1,0
+7274,No,M,South European - White,37,M,Partner/Spouse,Current,Charge/further charge,0,0
+11046,No,M,South European - White,46,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+2317,No,M,South European - White,48,H,Partner/Spouse,Current,Charge/further charge,0,0
+12335,No,M,South European - White,54,M,Boy/Girlfriend,Ex,Third and subsequent time charged,0,0
+1965,No,M,South European - White,54,Unknown,Partner/Spouse,Ex,Charge/further charge,0,0
+7288,No,M,Unknown,19,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+2586,No,M,Unknown,58,S,Partner/Spouse,Current,Charge/further charge,0,0
+3150,No,F,Unknown,27,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+2058,No,M,Unknown,42,S,Partner/Spouse,Current,Postal Charge Requisition,1,0
+1966,Yes,F,Unknown,43,S,Partner/Spouse,Current,Charge/further charge,0,0
+2572,No,M,Unknown,44,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10566,No,M,Unknown,20,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10444,No,F,Unknown,31,S,Boy/Girlfriend,Ex,Charge/further charge,1,0
+1913,No,F,Unknown,34,S,Boy/Girlfriend,Ex,Postal Charge Requisition,0,0
+2029,No,M,Unknown,19,M,Boy/Girlfriend,Current,Postal Charge Requisition,1,0
+12595,No,F,Unknown,20,S,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+9404,No,M,Unknown,27,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12536,No,M,Unknown,28,S,Boy/Girlfriend,Current,First time charged,0,0
+11958,No,M,Unknown,34,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+5048,No,M,Unknown,53,S,Boy/Girlfriend,Current,Charge/further charge,2,0
+10471,No,F,Unknown,37,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+12553,No,M,White European,29,M,Boy/Girlfriend,Current,Third and subsequent time charged,1,0
+12240,No,M,White European,31,M,Boy/Girlfriend,Current,First time charged,1,0
+12213,No,M,White European,45,M,Boy/Girlfriend,Current,Charge/further charge,1,0
+5869,No,M,White European,23,H,Partner/Spouse,Current,Charge/further charge,0,0
+4571,No,M,White European,24,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+6776,Yes,F,White European,24,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12538,No,M,White European,24,M,Boy/Girlfriend,Current,First time charged,0,0
+4441,No,F,White European,25,S,Boy/Girlfriend,Ex,Adult caution,0,0
+3774,No,F,White European,26,M,Partner/Spouse,Current,Adult caution,0,0
+500,No,M,White European,29,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+3041,No,M,White European,29,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+890,No,F,White European,30,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+2680,No,F,White European,30,M,Boy/Girlfriend,Ex,Postal Charge Requisition,0,0
+3730,No,M,White European,30,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+12343,No,M,White European,31,M,Boy/Girlfriend,Current,Third and subsequent time charged,0,0
+11656,No,M,White European,31,S,Partner/Spouse,Current,Charge/further charge,0,0
+4026,No,M,White European,32,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+1621,No,F,White European,32,S,Boy/Girlfriend,Ex,Postal Charge Requisition,0,0
+5843,No,M,White European,32,S,Boy/Girlfriend,Current,Adult caution,0,0
+6858,No,F,White European,34,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12674,No,F,White European,36,Unknown,Boy/Girlfriend,Ex,Adult caution,0,0
+7741,No,M,White European,39,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10753,No,M,White European,39,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+5001,Yes,M,White European,40,M,Partner/Spouse,Ex,Charge/further charge,0,0
+1867,No,M,White European,41,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+3345,No,F,White European,42,M,Boy/Girlfriend,Current,Adult caution,0,0
+10337,No,F,White European,42,S,Partner/Spouse,Current,Adult caution,0,0
+11248,No,M,White European,43,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+5072,No,M,White European,44,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+10091,No,F,White European,46,H,Partner/Spouse,Ex,Adult caution,0,0
+1229,No,M,White European,49,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+8385,No,M,White European,49,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+11579,No,F,White European,53,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+2691,No,M,White European,55,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+2694,No,F,White European,62,M,Partner/Spouse,Current,Charge/further charge,0,0
+12645,Yes,F,White European,62,Unknown,Partner/Spouse,Current,Charge/further charge,0,0
+12273,Yes,M,White European,87,S,Partner/Spouse,Current,Charge/further charge,0,0
+11612,No,F,South European - White,22,S,Boy/Girlfriend,Current,Conditional caution,0,0
+11696,No,M,South European - White,25,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+10580,No,M,South European - White,27,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+4903,No,F,South European - White,28,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+8230,Yes,M,South European - White,31,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+10578,No,M,South European - White,33,S,Boy/Girlfriend,Ex,Adult caution,0,0
+5003,No,F,South European - White,34,H,Partner/Spouse,Current,Charge/further charge,0,0
+643,No,F,South European - White,42,H,Boy/Girlfriend,Current,Charge/further charge,0,0
+12407,No,M,South European - White,20,S,Boy/Girlfriend,Current,First time charged,0,0
+3878,No,F,South European - White,21,S,Boy/Girlfriend,Ex,Postal Charge Requisition,0,0
+12088,No,M,South European - White,23,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12369,No,F,South European - White,23,S,Boy/Girlfriend,Current,Adult caution,0,0
+9745,No,M,South European - White,25,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+9745,No,M,South European - White,25,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+12115,No,F,South European - White,26,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+4822,No,F,South European - White,27,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+2013,No,M,South European - White,28,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+1338,No,M,South European - White,28,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+7004,No,F,South European - White,28,S,Boy/Girlfriend,Ex,Adult caution,0,0
+6788,No,M,South European - White,29,H,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5876,Yes,M,South European - White,30,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+11412,No,M,South European - White,30,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+2745,No,M,South European - White,34,M,Partner/Spouse,Ex,Charge/further charge,0,0
+1473,No,M,South European - White,35,M,Boy/Girlfriend,Ex,Postal Charge Requisition,0,0
+3297,No,M,South European - White,35,M,Boy/Girlfriend,Ex,Adult caution,0,0
+5848,No,M,South European - White,35,M,Partner/Spouse,Current,Adult caution,0,0
+499,No,M,South European - White,36,M,Boy/Girlfriend,Ex,Charge/further charge,0,0
+1433,No,F,South European - White,37,M,Partner/Spouse,Current,Postal Charge Requisition,0,0
+4838,No,M,South European - White,37,M,Partner/Spouse,Current,Charge/further charge,0,0
+283,No,M,South European - White,40,H,Partner/Spouse,Current,Charge/further charge,0,0
+8833,No,M,South European - White,40,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+4843,No,M,South European - White,43,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+437,No,M,South European - White,46,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+9271,Yes,F,South European - White,46,Unknown,Boy/Girlfriend,Current,Summons,0,0
+1371,No,M,South European - White,47,S,Boy/Girlfriend,Current,Charge/further charge,0,0
+6189,No,M,South European - White,49,S,Boy/Girlfriend,Ex,Charge/further charge,0,0
+5182,Yes,M,South European - White,62,S,Partner/Spouse,Current,Charge/further charge,0,0
+7764,No,M,South European - White,64,S,Partner/Spouse,Current,Adult caution,0,0
+11981,Yes,M,South European - White,65,H,Partner/Spouse,Current,Charge/further charge,0,0
+10398,No,M,South European - White,85,S,Partner/Spouse,Current,Summons,0,0
+11141,No,M,Middle Eastern,32,M,Boy/Girlfriend,Current,Charge/further charge,0,0
+2145,No,F,Middle Eastern,35,S,Partner/Spouse,Current,Charge/further charge,0,0
+12103,No,M,Middle Eastern,50,S,Partner/Spouse,Current,Charge/further charge,0,0
